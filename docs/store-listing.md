@@ -64,7 +64,6 @@ Reborn is an independent project. It is not affiliated with, endorsed by or spon
 **Icon:** taken from the package. If asked, `store/icon-512.png` is the master.
 
 **Official URL:** leave empty. **Homepage URL:** https://github.com/Silkvain/youtube-reborn. **Support URL:** https://github.com/Silkvain/youtube-reborn/issues.
-public.
 
 ## Privacy practices tab
 
