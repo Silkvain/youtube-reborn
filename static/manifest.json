@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Reborn for YouTube",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Old-YouTube-style recommendations on your home page, built from what you watch. Private by default; optional anonymous sharing.",
   "homepage_url": "https://github.com/Silkvain/youtube-reborn",
   "icons": {

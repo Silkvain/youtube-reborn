@@ -3,7 +3,7 @@
  * with docs/enhanced-discoverability.md and docs/store-listing.md.
  */
 export const PRIVACY_CONTACT = 'silkvain.dev@gmail.com';
-export const PRIVACY_UPDATED = '18 October 2026';
+export const PRIVACY_UPDATED = '24 October 2026';
 
 export const privacyPage = (contact = PRIVACY_CONTACT) => `<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
@@ -75,6 +75,12 @@ UK or EU you may also complain to your data protection authority (in the UK, the
 
 <h2>Children</h2>
 <p>Reborn is not directed at children under 13 and does not knowingly collect data about them.</p>
+
+<h2>Source code</h2>
+<p>Reborn is open source, so you can check all of this yourself:
+<a href="https://github.com/Silkvain/youtube-reborn">github.com/Silkvain/youtube-reborn</a>. What gets
+uploaded is in <a href="https://github.com/Silkvain/youtube-reborn/blob/main/src/core/community.ts">src/core/community.ts</a>,
+and what the server keeps is in <a href="https://github.com/Silkvain/youtube-reborn/tree/main/backend">backend/</a>.</p>
 
 <h2>Changes and contact</h2>
 <p>If this policy changes, the date above will change. If what is shared ever changes, Reborn will ask

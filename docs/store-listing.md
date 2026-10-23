@@ -47,6 +47,9 @@ If you agree, Reborn shares anonymously which public videos you watched (the day
 FREE
 Reborn is free. If you enjoy it, you can support development on Ko-fi: https://ko-fi.com/silkvain
 
+OPEN SOURCE
+Don't take our word for it: read the code. Everything Reborn does, including exactly what Enhanced discoverability uploads and what the server keeps, is public at https://github.com/Silkvain/youtube-reborn
+
 Reborn is an independent project. It is not affiliated with, endorsed by or sponsored by YouTube or Google.
 ```
 
@@ -60,8 +63,7 @@ Reborn is an independent project. It is not affiliated with, endorsed by or spon
 **Marquee promo tile:** `store/marquee-1400x560.png` (optional)
 **Icon:** taken from the package. If asked, `store/icon-512.png` is the master.
 
-**Official URL:** leave empty. **Homepage URL:** the GitHub repo once public; until then
-`https://ko-fi.com/silkvain` or empty. **Support URL:** empty, or the repo's Issues page once
+**Official URL:** leave empty. **Homepage URL:** https://github.com/Silkvain/youtube-reborn. **Support URL:** https://github.com/Silkvain/youtube-reborn/issues.
 public.
 
 ## Privacy practices tab

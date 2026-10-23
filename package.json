@@ -1,6 +1,6 @@
 {
   "name": "youtube-reborn",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "private": true,
   "license": "MIT",
   "description": "Browser extension that replaces the YouTube home feed with a local, subscription-seeded discovery feed.",

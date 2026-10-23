@@ -34,6 +34,7 @@ p { margin: 0 0 10px; }
 ul { margin: 0; padding-left: 18px; color: var(--muted); font-size: 13px; }
 li { margin-bottom: 4px; }
 .small { font-size: 12px; color: var(--muted); }
+.small a { color: var(--fg); }
 .error { color: var(--accent); }
 /* Agree and Deny are deliberately the same size and weight: a real choice, not a nudge. */
 .actions { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 18px 0 10px; }

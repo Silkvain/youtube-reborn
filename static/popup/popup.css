@@ -64,6 +64,8 @@ button.danger:hover { border-color: var(--accent); }
 .community .option { margin-bottom: 0; }
 .consent { margin: 10px 0 0; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; font-size: 12px; }
 .consent p { margin: 0 0 4px; }
+.consent .code-link { color: var(--muted); }
+.consent .code-link a { color: var(--fg); }
 .consent ul { margin: 0 0 8px; padding-left: 18px; color: var(--muted); }
 .consent li { margin-bottom: 4px; }
 .consent-actions { display: flex; gap: 8px; margin-top: 8px; }

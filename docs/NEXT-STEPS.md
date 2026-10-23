@@ -241,17 +241,14 @@ The owner wants the backend live before launch; this can run alongside step 2.
 
 ### 4. Before launch
 - The repo is public (2026-10-23), so "free and open-source" in the popup is now true.
-- `homepage_url` (the GitHub repo) was added to the manifest on 2026-10-23; it reaches users with
-  the next store upload (bump the version).
-- **Link the public source code everywhere data collection is mentioned** (owner's idea,
-  2026-10-18), once the repo is public: anyone who doubts what's collected can read the code.
-  - The install welcome window (`static/welcome/welcome.html`): e.g. "Don't take our word for it:
-    read the code" next to the "What it shares" lists.
-  - The popup: the consent box, and turn "free and open-source" in the footer into a link.
-  - The store listing, the privacy policy and the README.
-  - Link the specific files too: `src/core/community.ts` (exactly what gets uploaded) and
-    `backend/` (what the server keeps).
-  - Set `homepage_url` in the manifest to the repo.
+- **Source-code links: done in v0.2.2 (2026-10-24).** "Don’t take our word for it: read the code"
+  links to `src/core/community.ts` (what gets uploaded) and `backend/` (what the server keeps) in
+  the welcome window and the popup's consent box; the popup footer's "free and open-source" links
+  to the repo; the store description has an OPEN SOURCE paragraph; the privacy policy has a
+  "Source code" section (dated 24 October 2026). `homepage_url` is in the manifest.
+  - **Still to do:** the owner uploads `release/reborn-for-youtube-0.2.2.zip` (Package tab) and
+    pastes the new description; the privacy-page change needs a backend redeploy (owner's
+    go-ahead); the README has no such link yet.
 - Optional: GitHub Actions running both test suites.
 
 ## Owner-side checks still open
