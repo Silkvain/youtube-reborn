@@ -1,0 +1,945 @@
+{
+ "contents": {
+  "twoColumnSearchResultsRenderer": {
+   "primaryContents": {
+    "sectionListRenderer": {
+     "contents": [
+      {
+       "itemSectionRenderer": {
+        "contents": [
+         {
+          "videoRenderer": {
+           "videoId": "gDJ-ini7fF0",
+           "thumbnail": {
+            "thumbnails": [
+             {
+              "url": "https://i.ytimg.com/vi/gDJ-ini7fF0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAGi85f_Aw4Iw-ik1gYY4OoEIOCoAQ==&rs=AOn4CLA3NV96V9ntoC1i9OqsL5Cfu3VFag&usqp=CBU",
+              "width": 360,
+              "height": 202
+             },
+             {
+              "url": "https://i.ytimg.com/vi/gDJ-ini7fF0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAGi85f_Aw4Iw-ik1gYY4OoEIOCoAQ==&rs=AOn4CLAWYQLc5AmC4DGiqzlbVtwou04Akg&usqp=CBU",
+              "width": 720,
+              "height": 404
+             }
+            ]
+           },
+           "title": {
+            "runs": [
+             {
+              "text": "NARNIA: THE MAGICIAN’S NEPHEW | Official Trailer | Netflix"
+             }
+            ]
+           },
+           "longBylineText": {
+            "runs": [
+             {
+              "text": "Netflix",
+              "navigationEndpoint": {
+               "commandMetadata": {
+                "webCommandMetadata": {
+                 "url": "/@Netflix",
+                 "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                 "rootVe": 3611,
+                 "apiUrl": "/youtubei/v1/browse"
+                }
+               },
+               "browseEndpoint": {
+                "browseId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+                "canonicalBaseUrl": "/@Netflix"
+               }
+              }
+             }
+            ]
+           },
+           "publishedTimeText": {
+            "simpleText": "1 day ago"
+           },
+           "lengthText": {
+            "simpleText": "2:41"
+           },
+           "viewCountText": {
+            "simpleText": "30,132,128 views"
+           },
+           "navigationEndpoint": {
+            "commandMetadata": {
+             "webCommandMetadata": {
+              "url": "/watch?v=gDJ-ini7fF0&pp=ygUDdGhl",
+              "webPageType": "WEB_PAGE_TYPE_WATCH",
+              "rootVe": 3832
+             }
+            },
+            "watchEndpoint": {
+             "videoId": "gDJ-ini7fF0",
+             "params": "qgMDdGhlugMLCLHZ-eia-MnS6AG6AwsIqdSojvr01YOdAboDCwjPq9WBi__lrb4BugMKCK3l3MLarcCNG7oDCgjn9cDdqPrHgWq6AwoIxabutJOv3_1fugMKCMjXlqS-tLinQ7oDCwiW68amyNH4_9QBugMLCPT-14mW-qigogG6AwoI9qOM44m7lqEo",
+             "playerParams": "ygUDdGhl",
+             "watchEndpointSupportedOnesieConfig": {
+              "html5PlaybackOnesieConfig": {
+               "commonConfig": {
+                "url": "https://rr2---sn-ajaig5-58.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&epbp=1&msp=1&odepv=1&id=80327e8a78bb7c5d&ip=0.0.0.0&initcwndbps=4706875&mt=1792075069&oweuc="
+               }
+              }
+             }
+            }
+           },
+           "badges": [
+            {
+             "metadataBadgeRenderer": {
+              "style": "BADGE_STYLE_TYPE_SIMPLE",
+              "label": "New"
+             }
+            },
+            {
+             "metadataBadgeRenderer": {
+              "style": "BADGE_STYLE_TYPE_SIMPLE",
+              "label": "CC"
+             }
+            }
+           ],
+           "ownerBadges": [
+            {
+             "metadataBadgeRenderer": {
+              "icon": {
+               "iconType": "CHECK_CIRCLE_THICK"
+              },
+              "style": "BADGE_STYLE_TYPE_VERIFIED",
+              "tooltip": "Verified"
+             }
+            }
+           ],
+           "ownerText": {
+            "runs": [
+             {
+              "text": "Netflix",
+              "navigationEndpoint": {
+               "commandMetadata": {
+                "webCommandMetadata": {
+                 "url": "/@Netflix",
+                 "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                 "rootVe": 3611,
+                 "apiUrl": "/youtubei/v1/browse"
+                }
+               },
+               "browseEndpoint": {
+                "browseId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+                "canonicalBaseUrl": "/@Netflix"
+               }
+              }
+             }
+            ]
+           },
+           "shortBylineText": {
+            "runs": [
+             {
+              "text": "Netflix",
+              "navigationEndpoint": {
+               "commandMetadata": {
+                "webCommandMetadata": {
+                 "url": "/@Netflix",
+                 "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                 "rootVe": 3611,
+                 "apiUrl": "/youtubei/v1/browse"
+                }
+               },
+               "browseEndpoint": {
+                "browseId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+                "canonicalBaseUrl": "/@Netflix"
+               }
+              }
+             }
+            ]
+           },
+           "showActionMenu": false,
+           "shortViewCountText": {
+            "simpleText": "30M views"
+           }
+          }
+         },
+         {
+          "videoRenderer": {
+           "videoId": "6KUnwa0ebLE",
+           "thumbnail": {
+            "thumbnails": [
+             {
+              "url": "https://i.ytimg.com/vi/6KUnwa0ebLE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAGi85f_Aw4I1-Dv1QYY4OoEIOCoAQ==&rs=AOn4CLC6YQNY1r23xvarCC3bnjcnu9zrLA&usqp=CBU",
+              "width": 360,
+              "height": 202
+             },
+             {
+              "url": "https://i.ytimg.com/vi/6KUnwa0ebLE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAGi85f_Aw4I1-Dv1QYY4OoEIOCoAQ==&rs=AOn4CLB7z0m3AALl7EP2q5e-AQBIt2pjlA&usqp=CBU",
+              "width": 720,
+              "height": 404
+             }
+            ]
+           },
+           "title": {
+            "runs": [
+             {
+              "text": "Nastya and Stacy teach the importance of drinking water"
+             }
+            ]
+           },
+           "longBylineText": {
+            "runs": [
+             {
+              "text": "Like Nastya",
+              "navigationEndpoint": {
+               "commandMetadata": {
+                "webCommandMetadata": {
+                 "url": "/@LikeNastyaofficial",
+                 "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                 "rootVe": 3611,
+                 "apiUrl": "/youtubei/v1/browse"
+                }
+               },
+               "browseEndpoint": {
+                "browseId": "UCJplp5SjeGSdVdwsfb9Q7lQ",
+                "canonicalBaseUrl": "/@LikeNastyaofficial"
+               }
+              }
+             }
+            ]
+           },
+           "publishedTimeText": {
+            "simpleText": "5 days ago"
+           },
+           "lengthText": {
+            "simpleText": "25:08"
+           },
+           "viewCountText": {
+            "simpleText": "11,978,040 views"
+           },
+           "navigationEndpoint": {
+            "commandMetadata": {
+             "webCommandMetadata": {
+              "url": "/watch?v=6KUnwa0ebLE&pp=ygUDdGhl",
+              "webPageType": "WEB_PAGE_TYPE_WATCH",
+              "rootVe": 3832
+             }
+            },
+            "watchEndpoint": {
+             "videoId": "6KUnwa0ebLE",
+             "params": "qgMDdGhlugMLCN347cWn0Z-ZgAG6AwsIqdSojvr01YOdAboDCwjPq9WBi__lrb4BugMKCK3l3MLarcCNG7oDCgjn9cDdqPrHgWq6AwoIxabutJOv3_1fugMKCMjXlqS-tLinQ7oDCwiW68amyNH4_9QBugMLCPT-14mW-qigogG6AwoI9qOM44m7lqEo",
+             "playerParams": "ygUDdGhl",
+             "watchEndpointSupportedOnesieConfig": {
+              "html5PlaybackOnesieConfig": {
+               "commonConfig": {
+                "url": "https://rr4---sn-aigl6ney.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&epbp=1&msp=1&odepv=1&id=e8a527c1ad1e6cb1&ip=0.0.0.0&initcwndbps=4706875&mt=1792075069&oweuc="
+               }
+              }
+             }
+            }
+           },
+           "badges": [
+            {
+             "metadataBadgeRenderer": {
+              "style": "BADGE_STYLE_TYPE_SIMPLE",
+              "label": "New"
+             }
+            },
+            {
+             "metadataBadgeRenderer": {
+              "style": "BADGE_STYLE_TYPE_SIMPLE",
+              "label": "4K"
+             }
+            }
+           ],
+           "ownerBadges": [
+            {
+             "metadataBadgeRenderer": {
+              "icon": {
+               "iconType": "CHECK_CIRCLE_THICK"
+              },
+              "style": "BADGE_STYLE_TYPE_VERIFIED",
+              "tooltip": "Verified"
+             }
+            }
+           ],
+           "ownerText": {
+            "runs": [
+             {
+              "text": "Like Nastya",
+              "navigationEndpoint": {
+               "commandMetadata": {
+                "webCommandMetadata": {
+                 "url": "/@LikeNastyaofficial",
+                 "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                 "rootVe": 3611,
+                 "apiUrl": "/youtubei/v1/browse"
+                }
+               },
+               "browseEndpoint": {
+                "browseId": "UCJplp5SjeGSdVdwsfb9Q7lQ",
+                "canonicalBaseUrl": "/@LikeNastyaofficial"
+               }
+              }
+             }
+            ]
+           },
+           "shortBylineText": {
+            "runs": [
+             {
+              "text": "Like Nastya",
+              "navigationEndpoint": {
+               "commandMetadata": {
+                "webCommandMetadata": {
+                 "url": "/@LikeNastyaofficial",
+                 "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                 "rootVe": 3611,
+                 "apiUrl": "/youtubei/v1/browse"
+                }
+               },
+               "browseEndpoint": {
+                "browseId": "UCJplp5SjeGSdVdwsfb9Q7lQ",
+                "canonicalBaseUrl": "/@LikeNastyaofficial"
+               }
+              }
+             }
+            ]
+           },
+           "showActionMenu": false,
+           "shortViewCountText": {
+            "simpleText": "11M views"
+           }
+          }
+         },
+         {
+          "videoRenderer": {
+           "videoId": "nQdXp6HKKik",
+           "thumbnail": {
+            "thumbnails": [
+             {
+              "url": "https://i.ytimg.com/vi/nQdXp6HKKik/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAGi85f_Aw4IzbGo1gYY4OoEIOCoAQ==&rs=AOn4CLAeFIvVRV2yfoKP5nXXkEXYZ0VN1Q&usqp=CBU",
+              "width": 360,
+              "height": 202
+             },
+             {
+              "url": "https://i.ytimg.com/vi/nQdXp6HKKik/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAGi85f_Aw4IzbGo1gYY4OoEIOCoAQ==&rs=AOn4CLApQd6bDsR2kKFJWhXTHGmNIjhKFA&usqp=CBU",
+              "width": 720,
+              "height": 404
+             }
+            ]
+           },
+           "title": {
+            "runs": [
+             {
+              "text": "I tested the most Futuristic Tech - it scared me."
+             }
+            ]
+           },
+           "longBylineText": {
+            "runs": [
+             {
+              "text": "Mrwhosetheboss",
+              "navigationEndpoint": {
+               "commandMetadata": {
+                "webCommandMetadata": {
+                 "url": "/@Mrwhosetheboss",
+                 "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                 "rootVe": 3611,
+                 "apiUrl": "/youtubei/v1/browse"
+                }
+               },
+               "browseEndpoint": {
+                "browseId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+                "canonicalBaseUrl": "/@Mrwhosetheboss"
+               }
+              }
+             }
+            ]
+           },
+           "publishedTimeText": {
+            "simpleText": "5 days ago"
+           },
+           "lengthText": {
+            "simpleText": "24:32"
+           },
+           "viewCountText": {
+            "simpleText": "13,533,731 views"
+           },
+           "navigationEndpoint": {
+            "commandMetadata": {
+             "webCommandMetadata": {
+              "url": "/watch?v=nQdXp6HKKik&pp=ygUDdGhl",
+              "webPageType": "WEB_PAGE_TYPE_WATCH",
+              "rootVe": 3832
+             }
+            },
+            "watchEndpoint": {
+             "videoId": "nQdXp6HKKik",
+             "params": "qgMDdGhlugMLCN347cWn0Z-ZgAG6AwsIsdn56Jr4ydLoAboDCwjPq9WBi__lrb4BugMKCK3l3MLarcCNG7oDCgjn9cDdqPrHgWq6AwoIxabutJOv3_1fugMKCMjXlqS-tLinQ7oDCwiW68amyNH4_9QBugMLCPT-14mW-qigogG6AwoI9qOM44m7lqEo",
+             "playerParams": "ygUDdGhl",
+             "watchEndpointSupportedOnesieConfig": {
+              "html5PlaybackOnesieConfig": {
+               "commonConfig": {
+                "url": "https://rr3---sn-ajaig5-5a.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&epbp=1&msp=1&odepv=1&id=9d0757a7a1ca2a29&ip=0.0.0.0&initcwndbps=4706875&mt=1792075069&oweuc="
+               }
+              }
+             }
+            }
+           },
+           "badges": [
+            {
+             "metadataBadgeRenderer": {
+              "style": "BADGE_STYLE_TYPE_SIMPLE",
+              "label": "New"
+             }
+            },
+            {
+             "metadataBadgeRenderer": {
+              "style": "BADGE_STYLE_TYPE_SIMPLE",
+              "label": "4K"
+             }
+            }
+           ],
+           "ownerBadges": [
+            {
+             "metadataBadgeRenderer": {
+              "icon": {
+               "iconType": "CHECK_CIRCLE_THICK"
+              },
+              "style": "BADGE_STYLE_TYPE_VERIFIED",
+              "tooltip": "Verified"
+             }
+            }
+           ],
+           "ownerText": {
+            "runs": [
+             {
+              "text": "Mrwhosetheboss",
+              "navigationEndpoint": {
+               "commandMetadata": {
+                "webCommandMetadata": {
+                 "url": "/@Mrwhosetheboss",
+                 "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                 "rootVe": 3611,
+                 "apiUrl": "/youtubei/v1/browse"
+                }
+               },
+               "browseEndpoint": {
+                "browseId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+                "canonicalBaseUrl": "/@Mrwhosetheboss"
+               }
+              }
+             }
+            ]
+           },
+           "shortBylineText": {
+            "runs": [
+             {
+              "text": "Mrwhosetheboss",
+              "navigationEndpoint": {
+               "commandMetadata": {
+                "webCommandMetadata": {
+                 "url": "/@Mrwhosetheboss",
+                 "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                 "rootVe": 3611,
+                 "apiUrl": "/youtubei/v1/browse"
+                }
+               },
+               "browseEndpoint": {
+                "browseId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+                "canonicalBaseUrl": "/@Mrwhosetheboss"
+               }
+              }
+             }
+            ]
+           },
+           "showActionMenu": false,
+           "shortViewCountText": {
+            "simpleText": "13M views"
+           }
+          }
+         },
+         {
+          "videoRenderer": {
+           "videoId": "vluX-LA1Vc8",
+           "thumbnail": {
+            "thumbnails": [
+             {
+              "url": "https://i.ytimg.com/vi/vluX-LA1Vc8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAGi85f_Aw4I1auW1gYY4OoEIOCoAQ==&rs=AOn4CLDPIo24vnDxfciHJZVrKhcZTxY1OA&usqp=CBU",
+              "width": 360,
+              "height": 202
+             },
+             {
+              "url": "https://i.ytimg.com/vi/vluX-LA1Vc8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAGi85f_Aw4I1auW1gYY4OoEIOCoAQ==&rs=AOn4CLA2LDahNtbkMgzR2XjEAeT-lnvy0w&usqp=CBU",
+              "width": 720,
+              "height": 404
+             }
+            ]
+           },
+           "title": {
+            "runs": [
+             {
+              "text": "KNIGHTS OF GUINEVERE: Ep 2 - Wolves Around The Corner"
+             }
+            ]
+           },
+           "longBylineText": {
+            "runs": [
+             {
+              "text": "GLITCH",
+              "navigationEndpoint": {
+               "commandMetadata": {
+                "webCommandMetadata": {
+                 "url": "/@GLITCH",
+                 "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                 "rootVe": 3611,
+                 "apiUrl": "/youtubei/v1/browse"
+                }
+               },
+               "browseEndpoint": {
+                "browseId": "UCn_FAXem2-e3HQvmK-mOH4g",
+                "canonicalBaseUrl": "/@GLITCH"
+               }
+              }
+             }
+            ]
+           },
+           "publishedTimeText": {
+            "simpleText": "5 days ago"
+           },
+           "lengthText": {
+            "simpleText": "28:00"
+           },
+           "viewCountText": {
+            "simpleText": "11,203,842 views"
+           },
+           "navigationEndpoint": {
+            "commandMetadata": {
+             "webCommandMetadata": {
+              "url": "/watch?v=vluX-LA1Vc8&pp=ygUDdGhl",
+              "webPageType": "WEB_PAGE_TYPE_WATCH",
+              "rootVe": 3832
+             }
+            },
+            "watchEndpoint": {
+             "videoId": "vluX-LA1Vc8",
+             "params": "qgMDdGhlugMLCN347cWn0Z-ZgAG6AwsIsdn56Jr4ydLoAboDCwip1KiO-vTVg50BugMKCK3l3MLarcCNG7oDCgjn9cDdqPrHgWq6AwoIxabutJOv3_1fugMKCMjXlqS-tLinQ7oDCwiW68amyNH4_9QBugMLCPT-14mW-qigogG6AwoI9qOM44m7lqEo6gMCEAE%3D",
+             "playerParams": "ygUDdGhl",
+             "watchEndpointSupportedOnesieConfig": {
+              "html5PlaybackOnesieConfig": {
+               "commonConfig": {
+                "url": "https://rr4---sn-ajaig5-5h.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&epbp=1&msp=1&odepv=1&id=be5b97f8b03555cf&ip=0.0.0.0&initcwndbps=4706875&mt=1792075069&oweuc="
+               }
+              }
+             }
+            }
+           },
+           "badges": [
+            {
+             "metadataBadgeRenderer": {
+              "style": "BADGE_STYLE_TYPE_SIMPLE",
+              "label": "New"
+             }
+            },
+            {
+             "metadataBadgeRenderer": {
+              "icon": {
+               "iconType": "OUTLINE_BAG"
+              },
+              "style": "BADGE_STYLE_TYPE_SIMPLE",
+              "label": "12 products"
+             }
+            }
+           ],
+           "ownerBadges": [
+            {
+             "metadataBadgeRenderer": {
+              "icon": {
+               "iconType": "CHECK_CIRCLE_THICK"
+              },
+              "style": "BADGE_STYLE_TYPE_VERIFIED",
+              "tooltip": "Verified"
+             }
+            }
+           ],
+           "ownerText": {
+            "runs": [
+             {
+              "text": "GLITCH",
+              "navigationEndpoint": {
+               "commandMetadata": {
+                "webCommandMetadata": {
+                 "url": "/@GLITCH",
+                 "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                 "rootVe": 3611,
+                 "apiUrl": "/youtubei/v1/browse"
+                }
+               },
+               "browseEndpoint": {
+                "browseId": "UCn_FAXem2-e3HQvmK-mOH4g",
+                "canonicalBaseUrl": "/@GLITCH"
+               }
+              }
+             }
+            ]
+           },
+           "shortBylineText": {
+            "runs": [
+             {
+              "text": "GLITCH",
+              "navigationEndpoint": {
+               "commandMetadata": {
+                "webCommandMetadata": {
+                 "url": "/@GLITCH",
+                 "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                 "rootVe": 3611,
+                 "apiUrl": "/youtubei/v1/browse"
+                }
+               },
+               "browseEndpoint": {
+                "browseId": "UCn_FAXem2-e3HQvmK-mOH4g",
+                "canonicalBaseUrl": "/@GLITCH"
+               }
+              }
+             }
+            ]
+           },
+           "showActionMenu": false,
+           "shortViewCountText": {
+            "simpleText": "11M views"
+           }
+          }
+         },
+         {
+          "videoRenderer": {
+           "videoId": "GxsBbahXMq0",
+           "thumbnail": {
+            "thumbnails": [
+             {
+              "url": "https://i.ytimg.com/vi/GxsBbahXMq0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAGi85f_Aw4IjvOS1gYY4OoEIOCoAQ==&rs=AOn4CLChUkyPlVrsaAbBDasuZXN2H1sScA&usqp=CBU",
+              "width": 360,
+              "height": 202
+             },
+             {
+              "url": "https://i.ytimg.com/vi/GxsBbahXMq0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAGi85f_Aw4IjvOS1gYY4OoEIOCoAQ==&rs=AOn4CLBoPe5DwX70oSKnFR6kuQP52zLVQg&usqp=CBU",
+              "width": 720,
+              "height": 404
+             }
+            ]
+           },
+           "title": {
+            "runs": [
+             {
+              "text": "Cocoa Tree Spread | Grizzy & the Lemmings | 35' Compilation | 🐻🐹 Nostalgic Cartoon"
+             }
+            ]
+           },
+           "longBylineText": {
+            "runs": [
+             {
+              "text": "Grizzy & the Lemmings Retro",
+              "navigationEndpoint": {
+               "commandMetadata": {
+                "webCommandMetadata": {
+                 "url": "/@GrizzytheLemmingsRetro",
+                 "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                 "rootVe": 3611,
+                 "apiUrl": "/youtubei/v1/browse"
+                }
+               },
+               "browseEndpoint": {
+                "browseId": "UCl8pLczdHEZYPdjuDZ8MGWw",
+                "canonicalBaseUrl": "/@GrizzytheLemmingsRetro"
+               }
+              }
+             }
+            ]
+           },
+           "publishedTimeText": {
+            "simpleText": "7 days ago"
+           },
+           "lengthText": {
+            "simpleText": "33:00"
+           },
+           "viewCountText": {
+            "simpleText": "7,709,245 views"
+           },
+           "navigationEndpoint": {
+            "commandMetadata": {
+             "webCommandMetadata": {
+              "url": "/watch?v=GxsBbahXMq0&pp=ygUDdGhl",
+              "webPageType": "WEB_PAGE_TYPE_WATCH",
+              "rootVe": 3832
+             }
+            },
+            "watchEndpoint": {
+             "videoId": "GxsBbahXMq0",
+             "params": "qgMDdGhlugMLCN347cWn0Z-ZgAG6AwsIsdn56Jr4ydLoAboDCwip1KiO-vTVg50BugMLCM-r1YGL_-WtvgG6AwoI5_XA3aj6x4FqugMKCMWm7rSTr9_9X7oDCgjI15akvrS4p0O6AwsIluvGpsjR-P_UAboDCwj0_teJlvqooKIBugMKCPajjOOJu5ahKA%3D%3D",
+             "playerParams": "ygUDdGhl",
+             "watchEndpointSupportedOnesieConfig": {
+              "html5PlaybackOnesieConfig": {
+               "commonConfig": {
+                "url": "https://rr4---sn-ajaig5-c5.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&epbp=1&msp=1&odepv=1&id=1b1b016da85732ad&ip=0.0.0.0&initcwndbps=4706875&mt=1792075069&oweuc="
+               }
+              }
+             }
+            }
+           },
+           "ownerText": {
+            "runs": [
+             {
+              "text": "Grizzy & the Lemmings Retro",
+              "navigationEndpoint": {
+               "commandMetadata": {
+                "webCommandMetadata": {
+                 "url": "/@GrizzytheLemmingsRetro",
+                 "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                 "rootVe": 3611,
+                 "apiUrl": "/youtubei/v1/browse"
+                }
+               },
+               "browseEndpoint": {
+                "browseId": "UCl8pLczdHEZYPdjuDZ8MGWw",
+                "canonicalBaseUrl": "/@GrizzytheLemmingsRetro"
+               }
+              }
+             }
+            ]
+           },
+           "shortBylineText": {
+            "runs": [
+             {
+              "text": "Grizzy & the Lemmings Retro",
+              "navigationEndpoint": {
+               "commandMetadata": {
+                "webCommandMetadata": {
+                 "url": "/@GrizzytheLemmingsRetro",
+                 "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                 "rootVe": 3611,
+                 "apiUrl": "/youtubei/v1/browse"
+                }
+               },
+               "browseEndpoint": {
+                "browseId": "UCl8pLczdHEZYPdjuDZ8MGWw",
+                "canonicalBaseUrl": "/@GrizzytheLemmingsRetro"
+               }
+              }
+             }
+            ]
+           },
+           "showActionMenu": false,
+           "shortViewCountText": {
+            "simpleText": "7.7M views"
+           }
+          }
+         },
+         {
+          "videoRenderer": {
+           "videoId": "agMf0ouwOuc",
+           "thumbnail": {
+            "thumbnails": [
+             {
+              "url": "https://i.ytimg.com/vi/agMf0ouwOuc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAGi85f_Aw4I3_uo1gYY4OoEIOCoAQ==&rs=AOn4CLA-Z6hIv3cXpLyeYRyfHQgEz9cU_Q&usqp=CBU",
+              "width": 360,
+              "height": 202
+             },
+             {
+              "url": "https://i.ytimg.com/vi/agMf0ouwOuc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAGi85f_Aw4I3_uo1gYY4OoEIOCoAQ==&rs=AOn4CLBRbBvlCvL5ouNWj1HFgfy6OMmujw&usqp=CBU",
+              "width": 720,
+              "height": 404
+             }
+            ]
+           },
+           "title": {
+            "runs": [
+             {
+              "text": "I Secretly Lived in a Grocery Store To Get the VIRAL Toy!"
+             }
+            ]
+           },
+           "longBylineText": {
+            "runs": [
+             {
+              "text": "Topper Guild",
+              "navigationEndpoint": {
+               "commandMetadata": {
+                "webCommandMetadata": {
+                 "url": "/@topperguild",
+                 "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                 "rootVe": 3611,
+                 "apiUrl": "/youtubei/v1/browse"
+                }
+               },
+               "browseEndpoint": {
+                "browseId": "UCPuEAY09CtdTzFNWuqVZgDw",
+                "canonicalBaseUrl": "/@topperguild"
+               }
+              }
+             }
+            ]
+           },
+           "publishedTimeText": {
+            "simpleText": "5 days ago"
+           },
+           "lengthText": {
+            "simpleText": "31:44"
+           },
+           "viewCountText": {
+            "simpleText": "6,421,098 views"
+           },
+           "navigationEndpoint": {
+            "commandMetadata": {
+             "webCommandMetadata": {
+              "url": "/watch?v=agMf0ouwOuc&pp=ygUDdGhl",
+              "webPageType": "WEB_PAGE_TYPE_WATCH",
+              "rootVe": 3832
+             }
+            },
+            "watchEndpoint": {
+             "videoId": "agMf0ouwOuc",
+             "params": "qgMDdGhlugMLCN347cWn0Z-ZgAG6AwsIsdn56Jr4ydLoAboDCwip1KiO-vTVg50BugMLCM-r1YGL_-WtvgG6AwoIreXcwtqtwI0bugMKCMWm7rSTr9_9X7oDCgjI15akvrS4p0O6AwsIluvGpsjR-P_UAboDCwj0_teJlvqooKIBugMKCPajjOOJu5ahKA%3D%3D",
+             "playerParams": "ygUDdGhl",
+             "watchEndpointSupportedOnesieConfig": {
+              "html5PlaybackOnesieConfig": {
+               "commonConfig": {
+                "url": "https://rr2---sn-ajaig5-5v.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&epbp=1&msp=1&odepv=1&id=6a031fd28bb03ae7&ip=0.0.0.0&initcwndbps=4706875&mt=1792075069&oweuc="
+               }
+              }
+             }
+            }
+           },
+           "badges": [
+            {
+             "metadataBadgeRenderer": {
+              "style": "BADGE_STYLE_TYPE_SIMPLE",
+              "label": "New"
+             }
+            },
+            {
+             "metadataBadgeRenderer": {
+              "style": "BADGE_STYLE_TYPE_SIMPLE",
+              "label": "4K"
+             }
+            }
+           ],
+           "ownerBadges": [
+            {
+             "metadataBadgeRenderer": {
+              "icon": {
+               "iconType": "CHECK_CIRCLE_THICK"
+              },
+              "style": "BADGE_STYLE_TYPE_VERIFIED",
+              "tooltip": "Verified"
+             }
+            }
+           ],
+           "ownerText": {
+            "runs": [
+             {
+              "text": "Topper Guild",
+              "navigationEndpoint": {
+               "commandMetadata": {
+                "webCommandMetadata": {
+                 "url": "/@topperguild",
+                 "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                 "rootVe": 3611,
+                 "apiUrl": "/youtubei/v1/browse"
+                }
+               },
+               "browseEndpoint": {
+                "browseId": "UCPuEAY09CtdTzFNWuqVZgDw",
+                "canonicalBaseUrl": "/@topperguild"
+               }
+              }
+             }
+            ]
+           },
+           "shortBylineText": {
+            "runs": [
+             {
+              "text": "Topper Guild",
+              "navigationEndpoint": {
+               "commandMetadata": {
+                "webCommandMetadata": {
+                 "url": "/@topperguild",
+                 "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                 "rootVe": 3611,
+                 "apiUrl": "/youtubei/v1/browse"
+                }
+               },
+               "browseEndpoint": {
+                "browseId": "UCPuEAY09CtdTzFNWuqVZgDw",
+                "canonicalBaseUrl": "/@topperguild"
+               }
+              }
+             }
+            ]
+           },
+           "showActionMenu": false,
+           "shortViewCountText": {
+            "simpleText": "6.4M views"
+           }
+          }
+         }
+        ]
+       }
+      },
+      {
+       "continuationItemRenderer": {
+        "trigger": "CONTINUATION_TRIGGER_ON_ITEM_SHOWN",
+        "continuationEndpoint": {
+         "commandMetadata": {
+          "webCommandMetadata": {
+           "sendPost": true,
+           "apiUrl": "/youtubei/v1/search"
+          }
+         },
+         "continuationCommand": {
+          "token": "EuwBEgN0aGUa5AFDQU1TQWdnRFNCU0NBUXRuUkVvdGFXNXBOMlpHTUlJQkN6WkxWVzUzWVRCbFlreEZnZ0VMYmxGa1dIQTJTRXRMYVd1Q0FRdDJiSFZZTFV4Qk1WWmpPSUlCQzBkNGMwSmlZV2hZVFhFd2dnRUxZV2ROWmpCdmRYZFBkV09DQVF0WVgzUTVaVlJoWW1zd1ZZSUJDMUV3TjJodkxWTkdjVGhuZ2dFTE1WQmZhV3BKVkZKMFdsbUNBUXR2YTBOcU1GZEZNVjh6VVlJQkMwdEZTbG95U25ocVJXWlpzZ0VHQ2dRSUN4QUMYgeDoGCILc2VhcmNoLWZlZWQ%3D",
+          "request": "CONTINUATION_REQUEST_TYPE_SEARCH"
+         }
+        }
+       }
+      }
+     ],
+     "subMenu": {
+      "searchSubMenuRenderer": {}
+     },
+     "hideBottomSeparator": true
+    }
+   }
+  }
+ },
+ "frameworkUpdates": {
+  "entityBatchUpdate": {
+   "mutations": [
+    {
+     "entityKey": "EhhuUWRYcDZIS0tpa19haV9zdW1tYXJpZXMgPigB",
+     "type": "ENTITY_MUTATION_TYPE_REPLACE",
+     "payload": {
+      "likeStatusEntity": {
+       "key": "EhhuUWRYcDZIS0tpa19haV9zdW1tYXJpZXMgPigB",
+       "likeStatus": "INDIFFERENT"
+      }
+     }
+    },
+    {
+     "entityKey": "EhhhZ01mMG91d091Y19haV9zdW1tYXJpZXMgPigB",
+     "type": "ENTITY_MUTATION_TYPE_REPLACE",
+     "payload": {
+      "likeStatusEntity": {
+       "key": "EhhhZ01mMG91d091Y19haV9zdW1tYXJpZXMgPigB",
+       "likeStatus": "INDIFFERENT"
+      }
+     }
+    },
+    {
+     "entityKey": "EhhLRUpaMkp4akVmWV9haV9zdW1tYXJpZXMgPigB",
+     "type": "ENTITY_MUTATION_TYPE_REPLACE",
+     "payload": {
+      "likeStatusEntity": {
+       "key": "EhhLRUpaMkp4akVmWV9haV9zdW1tYXJpZXMgPigB",
+       "likeStatus": "INDIFFERENT"
+      }
+     }
+    }
+   ],
+   "timestamp": {
+    "seconds": "1792075725",
+    "nanos": 552878905
+   }
+  }
+ }
+}

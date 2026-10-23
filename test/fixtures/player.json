@@ -1,0 +1,19 @@
+{
+ "playabilityStatus": { "status": "UNPLAYABLE" },
+ "videoDetails": {
+  "videoId": "NiCgcUTL9_Q",
+  "title": "The Absurd Engineering Behind the Internet",
+  "lengthSeconds": "2072",
+  "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
+  "author": "Veritasium",
+  "viewCount": "6221569",
+  "isLiveContent": false
+ },
+ "microformat": {
+  "playerMicroformatRenderer": {
+   "publishDate": "2026-10-12T10:11:45-07:00",
+   "uploadDate": "2026-10-12T10:11:45-07:00",
+   "isShortsEligible": false
+  }
+ }
+}

@@ -1,0 +1,46 @@
+:root {
+  --bg: #ffffff;
+  --fg: #0f0f0f;
+  --muted: #606060;
+  --line: #e5e5e5;
+  --accent: #cc0000;
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #212121;
+    --fg: #f1f1f1;
+    --muted: #aaaaaa;
+    --line: #3d3d3d;
+    --accent: #ff4e45;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  padding: 24px 28px;
+  font: 14px/1.5 Roboto, system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+}
+h1 { font-size: 20px; margin: 0 0 8px; font-weight: 600; }
+h2 { font-size: 16px; margin: 20px 0 6px; font-weight: 600; }
+h3 { font-size: 13px; margin: 0 0 4px; font-weight: 600; }
+p { margin: 0 0 10px; }
+.lead { color: var(--muted); }
+.columns { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 14px 0; }
+@media (max-width: 520px) { .columns { grid-template-columns: 1fr; } }
+.columns section { border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; }
+ul { margin: 0; padding-left: 18px; color: var(--muted); font-size: 13px; }
+li { margin-bottom: 4px; }
+.small { font-size: 12px; color: var(--muted); }
+.error { color: var(--accent); }
+/* Agree and Deny are deliberately the same size and weight: a real choice, not a nudge. */
+.actions { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 18px 0 10px; }
+.actions button {
+  font: inherit; font-weight: 600; padding: 10px 16px; border-radius: 20px; cursor: pointer;
+  border: 1px solid var(--fg); background: transparent; color: var(--fg);
+}
+.actions button:hover { background: var(--line); }
+.actions button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.actions button:disabled { opacity: .5; cursor: default; }

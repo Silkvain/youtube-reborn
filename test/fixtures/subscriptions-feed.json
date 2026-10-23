@@ -1,0 +1,1062 @@
+{
+ "responseContext": {
+  "mainAppWebResponseContext": {
+   "loggedOut": false
+  }
+ },
+ "contents": {
+  "twoColumnBrowseResultsRenderer": {
+   "tabs": [
+    {
+     "tabRenderer": {
+      "selected": true,
+      "content": {
+       "richGridRenderer": {
+        "contents": [
+         {
+          "richItemRenderer": {
+           "content": {
+            "lockupViewModel": {
+             "contentImage": {
+              "thumbnailViewModel": {
+               "image": {
+                "sources": [
+                 {
+                  "url": "https://i.ytimg.com/vi/synthVid090/hqdefault.jpg",
+                  "width": 336,
+                  "height": 188
+                 }
+                ]
+               },
+               "overlays": [
+                {
+                 "thumbnailBottomOverlayViewModel": {
+                  "badges": [
+                   {
+                    "thumbnailBadgeViewModel": {
+                     "text": "LIVE",
+                     "badgeStyle": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE"
+                    }
+                   }
+                  ]
+                 }
+                }
+               ]
+              }
+             },
+             "metadata": {
+              "lockupMetadataViewModel": {
+               "title": {
+                "content": "Synthetic video 90"
+               },
+               "image": {
+                "decoratedAvatarViewModel": {
+                 "avatar": {
+                  "avatarViewModel": {
+                   "image": {
+                    "sources": [
+                     {
+                      "url": "https://yt3.example/synth4=s68",
+                      "width": 68,
+                      "height": 68
+                     }
+                    ]
+                   },
+                   "avatarImageSize": "AVATAR_SIZE_M"
+                  }
+                 },
+                 "a11yLabel": "Go to channel Synthetic Channel 4",
+                 "rendererContext": {
+                  "commandContext": {
+                   "onTap": {
+                    "innertubeCommand": {
+                     "commandMetadata": {
+                      "webCommandMetadata": {
+                       "url": "/@synthchannel4",
+                       "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                       "rootVe": 3611,
+                       "apiUrl": "/youtubei/v1/browse"
+                      }
+                     },
+                     "browseEndpoint": {
+                      "browseId": "UCsynth04xxxxxxxxxxxxxxx",
+                      "canonicalBaseUrl": "/@synthchannel4"
+                     }
+                    }
+                   }
+                  }
+                 }
+                }
+               },
+               "metadata": {
+                "contentMetadataViewModel": {
+                 "metadataRows": [
+                  {
+                   "metadataParts": [
+                    {
+                     "text": {
+                      "content": "Synthetic Channel 4"
+                     }
+                    }
+                   ]
+                  },
+                  {
+                   "metadataParts": [
+                    {
+                     "text": {
+                      "content": "1.2K watching"
+                     }
+                    }
+                   ]
+                  }
+                 ],
+                 "delimiter": " "
+                }
+               }
+              }
+             },
+             "contentId": "synthVid090",
+             "contentType": "LOCKUP_CONTENT_TYPE_VIDEO",
+             "rendererContext": {
+              "commandContext": {
+               "onTap": {
+                "innertubeCommand": {
+                 "commandMetadata": {
+                  "webCommandMetadata": {
+                   "url": "/watch?v=synthVid090",
+                   "webPageType": "WEB_PAGE_TYPE_WATCH",
+                   "rootVe": 3832
+                  }
+                 },
+                 "watchEndpoint": {
+                  "videoId": "synthVid090",
+                  "nofollow": true
+                 }
+                }
+               }
+              }
+             }
+            }
+           }
+          }
+         },
+         {
+          "richItemRenderer": {
+           "content": {
+            "lockupViewModel": {
+             "contentImage": {
+              "thumbnailViewModel": {
+               "image": {
+                "sources": [
+                 {
+                  "url": "https://i.ytimg.com/vi/synthVid091/hqdefault.jpg",
+                  "width": 336,
+                  "height": 188
+                 }
+                ]
+               },
+               "overlays": []
+              }
+             },
+             "metadata": {
+              "lockupMetadataViewModel": {
+               "title": {
+                "content": "Synthetic video 91"
+               },
+               "image": {
+                "decoratedAvatarViewModel": {
+                 "avatar": {
+                  "avatarViewModel": {
+                   "image": {
+                    "sources": [
+                     {
+                      "url": "https://yt3.example/synth5=s68",
+                      "width": 68,
+                      "height": 68
+                     }
+                    ]
+                   },
+                   "avatarImageSize": "AVATAR_SIZE_M"
+                  }
+                 },
+                 "a11yLabel": "Go to channel Synthetic Channel 5",
+                 "rendererContext": {
+                  "commandContext": {
+                   "onTap": {
+                    "innertubeCommand": {
+                     "commandMetadata": {
+                      "webCommandMetadata": {
+                       "url": "/@synthchannel5",
+                       "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                       "rootVe": 3611,
+                       "apiUrl": "/youtubei/v1/browse"
+                      }
+                     },
+                     "browseEndpoint": {
+                      "browseId": "UCsynth05xxxxxxxxxxxxxxx",
+                      "canonicalBaseUrl": "/@synthchannel5"
+                     }
+                    }
+                   }
+                  }
+                 }
+                }
+               },
+               "metadata": {
+                "contentMetadataViewModel": {
+                 "metadataRows": [
+                  {
+                   "metadataParts": [
+                    {
+                     "text": {
+                      "content": "Synthetic Channel 5"
+                     }
+                    }
+                   ]
+                  },
+                  {
+                   "metadataParts": [
+                    {
+                     "text": {
+                      "content": "Scheduled for 10/20/26, 5:00 PM"
+                     }
+                    }
+                   ]
+                  }
+                 ],
+                 "delimiter": " "
+                }
+               }
+              }
+             },
+             "contentId": "synthVid091",
+             "contentType": "LOCKUP_CONTENT_TYPE_VIDEO",
+             "rendererContext": {
+              "commandContext": {
+               "onTap": {
+                "innertubeCommand": {
+                 "commandMetadata": {
+                  "webCommandMetadata": {
+                   "url": "/watch?v=synthVid091",
+                   "webPageType": "WEB_PAGE_TYPE_WATCH",
+                   "rootVe": 3832
+                  }
+                 },
+                 "watchEndpoint": {
+                  "videoId": "synthVid091",
+                  "nofollow": true
+                 }
+                }
+               }
+              }
+             }
+            }
+           }
+          }
+         },
+         {
+          "richItemRenderer": {
+           "content": {
+            "lockupViewModel": {
+             "contentImage": {
+              "thumbnailViewModel": {
+               "image": {
+                "sources": [
+                 {
+                  "url": "https://i.ytimg.com/vi/synthVid001/hqdefault.jpg",
+                  "width": 336,
+                  "height": 188
+                 }
+                ]
+               },
+               "overlays": [
+                {
+                 "thumbnailBottomOverlayViewModel": {
+                  "badges": [
+                   {
+                    "thumbnailBadgeViewModel": {
+                     "text": "12:34",
+                     "badgeStyle": "THUMBNAIL_OVERLAY_BADGE_STYLE_DEFAULT"
+                    }
+                   }
+                  ]
+                 }
+                }
+               ]
+              }
+             },
+             "metadata": {
+              "lockupMetadataViewModel": {
+               "title": {
+                "content": "Synthetic video 1"
+               },
+               "image": {
+                "decoratedAvatarViewModel": {
+                 "avatar": {
+                  "avatarViewModel": {
+                   "image": {
+                    "sources": [
+                     {
+                      "url": "https://yt3.example/synth1=s68",
+                      "width": 68,
+                      "height": 68
+                     }
+                    ]
+                   },
+                   "avatarImageSize": "AVATAR_SIZE_M"
+                  }
+                 },
+                 "a11yLabel": "Go to channel Synthetic Channel 1",
+                 "rendererContext": {
+                  "commandContext": {
+                   "onTap": {
+                    "innertubeCommand": {
+                     "commandMetadata": {
+                      "webCommandMetadata": {
+                       "url": "/@synthchannel1",
+                       "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                       "rootVe": 3611,
+                       "apiUrl": "/youtubei/v1/browse"
+                      }
+                     },
+                     "browseEndpoint": {
+                      "browseId": "UCsynth01xxxxxxxxxxxxxxx",
+                      "canonicalBaseUrl": "/@synthchannel1"
+                     }
+                    }
+                   }
+                  }
+                 }
+                }
+               },
+               "metadata": {
+                "contentMetadataViewModel": {
+                 "metadataRows": [
+                  {
+                   "metadataParts": [
+                    {
+                     "text": {
+                      "content": "Synthetic Channel 1"
+                     }
+                    }
+                   ]
+                  },
+                  {
+                   "metadataParts": [
+                    {
+                     "text": {
+                      "content": "1.5K"
+                     },
+                     "accessibilityLabel": "1.5 thousand views"
+                    },
+                    {
+                     "text": {
+                      "content": "2h ago"
+                     },
+                     "accessibilityLabel": "2 hours ago"
+                    }
+                   ]
+                  }
+                 ],
+                 "delimiter": " "
+                }
+               }
+              }
+             },
+             "contentId": "synthVid001",
+             "contentType": "LOCKUP_CONTENT_TYPE_VIDEO",
+             "rendererContext": {
+              "commandContext": {
+               "onTap": {
+                "innertubeCommand": {
+                 "commandMetadata": {
+                  "webCommandMetadata": {
+                   "url": "/watch?v=synthVid001",
+                   "webPageType": "WEB_PAGE_TYPE_WATCH",
+                   "rootVe": 3832
+                  }
+                 },
+                 "watchEndpoint": {
+                  "videoId": "synthVid001",
+                  "nofollow": true
+                 }
+                }
+               }
+              }
+             }
+            }
+           }
+          }
+         },
+         {
+          "richItemRenderer": {
+           "content": {
+            "lockupViewModel": {
+             "contentImage": {
+              "thumbnailViewModel": {
+               "image": {
+                "sources": [
+                 {
+                  "url": "https://i.ytimg.com/vi/synthVid002/hqdefault.jpg",
+                  "width": 336,
+                  "height": 188
+                 }
+                ]
+               },
+               "overlays": [
+                {
+                 "thumbnailBottomOverlayViewModel": {
+                  "badges": [
+                   {
+                    "thumbnailBadgeViewModel": {
+                     "text": "1:02:03",
+                     "badgeStyle": "THUMBNAIL_OVERLAY_BADGE_STYLE_DEFAULT"
+                    }
+                   }
+                  ]
+                 }
+                }
+               ]
+              }
+             },
+             "metadata": {
+              "lockupMetadataViewModel": {
+               "title": {
+                "content": "Synthetic video 2"
+               },
+               "image": {
+                "decoratedAvatarViewModel": {
+                 "avatar": {
+                  "avatarViewModel": {
+                   "image": {
+                    "sources": [
+                     {
+                      "url": "https://yt3.example/synth2=s68",
+                      "width": 68,
+                      "height": 68
+                     }
+                    ]
+                   },
+                   "avatarImageSize": "AVATAR_SIZE_M"
+                  }
+                 },
+                 "a11yLabel": "Go to channel Synthetic Channel 2",
+                 "rendererContext": {
+                  "commandContext": {
+                   "onTap": {
+                    "innertubeCommand": {
+                     "commandMetadata": {
+                      "webCommandMetadata": {
+                       "url": "/@synthchannel2",
+                       "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                       "rootVe": 3611,
+                       "apiUrl": "/youtubei/v1/browse"
+                      }
+                     },
+                     "browseEndpoint": {
+                      "browseId": "UCsynth02xxxxxxxxxxxxxxx",
+                      "canonicalBaseUrl": "/@synthchannel2"
+                     }
+                    }
+                   }
+                  }
+                 }
+                }
+               },
+               "metadata": {
+                "contentMetadataViewModel": {
+                 "metadataRows": [
+                  {
+                   "metadataParts": [
+                    {
+                     "text": {
+                      "content": "Synthetic Channel 2"
+                     }
+                    }
+                   ]
+                  },
+                  {
+                   "metadataParts": [
+                    {
+                     "text": {
+                      "content": "980"
+                     },
+                     "accessibilityLabel": "980 views"
+                    },
+                    {
+                     "text": {
+                      "content": "5h ago"
+                     },
+                     "accessibilityLabel": "5 hours ago"
+                    }
+                   ]
+                  }
+                 ],
+                 "delimiter": " "
+                }
+               }
+              }
+             },
+             "contentId": "synthVid002",
+             "contentType": "LOCKUP_CONTENT_TYPE_VIDEO",
+             "rendererContext": {
+              "commandContext": {
+               "onTap": {
+                "innertubeCommand": {
+                 "commandMetadata": {
+                  "webCommandMetadata": {
+                   "url": "/watch?v=synthVid002",
+                   "webPageType": "WEB_PAGE_TYPE_WATCH",
+                   "rootVe": 3832
+                  }
+                 },
+                 "watchEndpoint": {
+                  "videoId": "synthVid002",
+                  "nofollow": true
+                 }
+                }
+               }
+              }
+             }
+            }
+           }
+          }
+         },
+         {
+          "richSectionRenderer": {
+           "content": {
+            "richShelfRenderer": {
+             "title": {
+              "runs": [
+               {
+                "text": "Shorts"
+               }
+              ]
+             },
+             "contents": [
+              {
+               "richItemRenderer": {
+                "content": {
+                 "shortsLockupViewModel": {
+                  "entityId": "shorts-shelf-item-synthVid080",
+                  "onTap": {
+                   "innertubeCommand": {
+                    "commandMetadata": {
+                     "webCommandMetadata": {
+                      "url": "/shorts/synthVid080",
+                      "webPageType": "WEB_PAGE_TYPE_SHORTS",
+                      "rootVe": 37414
+                     }
+                    },
+                    "reelWatchEndpoint": {
+                     "videoId": "synthVid080"
+                    }
+                   }
+                  },
+                  "overlayMetadata": {
+                   "primaryText": {
+                    "content": "Synthetic short 80"
+                   },
+                   "secondaryText": {
+                    "content": "1.2K views"
+                   }
+                  }
+                 }
+                }
+               }
+              },
+              {
+               "richItemRenderer": {
+                "content": {
+                 "shortsLockupViewModel": {
+                  "entityId": "shorts-shelf-item-synthVid081",
+                  "onTap": {
+                   "innertubeCommand": {
+                    "commandMetadata": {
+                     "webCommandMetadata": {
+                      "url": "/shorts/synthVid081",
+                      "webPageType": "WEB_PAGE_TYPE_SHORTS",
+                      "rootVe": 37414
+                     }
+                    },
+                    "reelWatchEndpoint": {
+                     "videoId": "synthVid081"
+                    }
+                   }
+                  },
+                  "overlayMetadata": {
+                   "primaryText": {
+                    "content": "Synthetic short 81"
+                   },
+                   "secondaryText": {
+                    "content": "1.2K views"
+                   }
+                  }
+                 }
+                }
+               }
+              },
+              {
+               "richItemRenderer": {
+                "content": {
+                 "shortsLockupViewModel": {
+                  "entityId": "shorts-shelf-item-synthVid082",
+                  "onTap": {
+                   "innertubeCommand": {
+                    "commandMetadata": {
+                     "webCommandMetadata": {
+                      "url": "/shorts/synthVid082",
+                      "webPageType": "WEB_PAGE_TYPE_SHORTS",
+                      "rootVe": 37414
+                     }
+                    },
+                    "reelWatchEndpoint": {
+                     "videoId": "synthVid082"
+                    }
+                   }
+                  },
+                  "overlayMetadata": {
+                   "primaryText": {
+                    "content": "Synthetic short 82"
+                   },
+                   "secondaryText": {
+                    "content": "1.2K views"
+                   }
+                  }
+                 }
+                }
+               }
+              }
+             ],
+             "isExpanded": false
+            }
+           }
+          }
+         },
+         {
+          "richItemRenderer": {
+           "content": {
+            "lockupViewModel": {
+             "contentImage": {
+              "thumbnailViewModel": {
+               "image": {
+                "sources": [
+                 {
+                  "url": "https://i.ytimg.com/vi/synthVid083/hqdefault.jpg",
+                  "width": 336,
+                  "height": 188
+                 }
+                ]
+               },
+               "overlays": [
+                {
+                 "thumbnailBottomOverlayViewModel": {
+                  "badges": [
+                   {
+                    "thumbnailBadgeViewModel": {
+                     "text": "0:45",
+                     "badgeStyle": "THUMBNAIL_OVERLAY_BADGE_STYLE_DEFAULT"
+                    }
+                   }
+                  ]
+                 }
+                }
+               ]
+              }
+             },
+             "metadata": {
+              "lockupMetadataViewModel": {
+               "title": {
+                "content": "Synthetic video 83"
+               },
+               "image": {
+                "decoratedAvatarViewModel": {
+                 "avatar": {
+                  "avatarViewModel": {
+                   "image": {
+                    "sources": [
+                     {
+                      "url": "https://yt3.example/synth3=s68",
+                      "width": 68,
+                      "height": 68
+                     }
+                    ]
+                   },
+                   "avatarImageSize": "AVATAR_SIZE_M"
+                  }
+                 },
+                 "a11yLabel": "Go to channel Synthetic Channel 3",
+                 "rendererContext": {
+                  "commandContext": {
+                   "onTap": {
+                    "innertubeCommand": {
+                     "commandMetadata": {
+                      "webCommandMetadata": {
+                       "url": "/@synthchannel3",
+                       "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                       "rootVe": 3611,
+                       "apiUrl": "/youtubei/v1/browse"
+                      }
+                     },
+                     "browseEndpoint": {
+                      "browseId": "UCsynth03xxxxxxxxxxxxxxx",
+                      "canonicalBaseUrl": "/@synthchannel3"
+                     }
+                    }
+                   }
+                  }
+                 }
+                }
+               },
+               "metadata": {
+                "contentMetadataViewModel": {
+                 "metadataRows": [
+                  {
+                   "metadataParts": [
+                    {
+                     "text": {
+                      "content": "Synthetic Channel 3"
+                     }
+                    }
+                   ]
+                  },
+                  {
+                   "metadataParts": [
+                    {
+                     "text": {
+                      "content": "3K"
+                     },
+                     "accessibilityLabel": "3 thousand views"
+                    },
+                    {
+                     "text": {
+                      "content": "6h ago"
+                     },
+                     "accessibilityLabel": "6 hours ago"
+                    }
+                   ]
+                  }
+                 ],
+                 "delimiter": " "
+                }
+               }
+              }
+             },
+             "contentId": "synthVid083",
+             "contentType": "LOCKUP_CONTENT_TYPE_VIDEO",
+             "rendererContext": {
+              "commandContext": {
+               "onTap": {
+                "innertubeCommand": {
+                 "commandMetadata": {
+                  "webCommandMetadata": {
+                   "url": "/shorts/synthVid083",
+                   "webPageType": "WEB_PAGE_TYPE_SHORTS",
+                   "rootVe": 37414
+                  }
+                 },
+                 "reelWatchEndpoint": {
+                  "videoId": "synthVid083"
+                 }
+                }
+               }
+              }
+             }
+            }
+           }
+          }
+         },
+         {
+          "richItemRenderer": {
+           "content": {
+            "lockupViewModel": {
+             "contentImage": {
+              "thumbnailViewModel": {
+               "image": {
+                "sources": [
+                 {
+                  "url": "https://i.ytimg.com/vi/synthVid003/hqdefault.jpg",
+                  "width": 336,
+                  "height": 188
+                 }
+                ]
+               },
+               "overlays": [
+                {
+                 "thumbnailBottomOverlayViewModel": {
+                  "badges": [
+                   {
+                    "thumbnailBadgeViewModel": {
+                     "text": "8:00",
+                     "badgeStyle": "THUMBNAIL_OVERLAY_BADGE_STYLE_DEFAULT"
+                    }
+                   }
+                  ]
+                 }
+                }
+               ]
+              }
+             },
+             "metadata": {
+              "lockupMetadataViewModel": {
+               "title": {
+                "content": "Synthetic video 3"
+               },
+               "image": {
+                "decoratedAvatarViewModel": {
+                 "avatar": {
+                  "avatarViewModel": {
+                   "image": {
+                    "sources": [
+                     {
+                      "url": "https://yt3.example/synth3=s68",
+                      "width": 68,
+                      "height": 68
+                     }
+                    ]
+                   },
+                   "avatarImageSize": "AVATAR_SIZE_M"
+                  }
+                 },
+                 "a11yLabel": "Go to channel Synthetic Channel 3",
+                 "rendererContext": {
+                  "commandContext": {
+                   "onTap": {
+                    "innertubeCommand": {
+                     "commandMetadata": {
+                      "webCommandMetadata": {
+                       "url": "/@synthchannel3",
+                       "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                       "rootVe": 3611,
+                       "apiUrl": "/youtubei/v1/browse"
+                      }
+                     },
+                     "browseEndpoint": {
+                      "browseId": "UCsynth03xxxxxxxxxxxxxxx",
+                      "canonicalBaseUrl": "/@synthchannel3"
+                     }
+                    }
+                   }
+                  }
+                 }
+                }
+               },
+               "metadata": {
+                "contentMetadataViewModel": {
+                 "metadataRows": [
+                  {
+                   "metadataParts": [
+                    {
+                     "text": {
+                      "content": "Synthetic Channel 3"
+                     }
+                    }
+                   ]
+                  },
+                  {
+                   "metadataParts": [
+                    {
+                     "text": {
+                      "content": "45K"
+                     },
+                     "accessibilityLabel": "45 thousand views"
+                    },
+                    {
+                     "text": {
+                      "content": "1d ago"
+                     },
+                     "accessibilityLabel": "1 day ago"
+                    }
+                   ]
+                  }
+                 ],
+                 "delimiter": " "
+                }
+               }
+              }
+             },
+             "contentId": "synthVid003",
+             "contentType": "LOCKUP_CONTENT_TYPE_VIDEO",
+             "rendererContext": {
+              "commandContext": {
+               "onTap": {
+                "innertubeCommand": {
+                 "commandMetadata": {
+                  "webCommandMetadata": {
+                   "url": "/watch?v=synthVid003",
+                   "webPageType": "WEB_PAGE_TYPE_WATCH",
+                   "rootVe": 3832
+                  }
+                 },
+                 "watchEndpoint": {
+                  "videoId": "synthVid003",
+                  "nofollow": true
+                 }
+                }
+               }
+              }
+             }
+            }
+           }
+          }
+         },
+         {
+          "richItemRenderer": {
+           "content": {
+            "lockupViewModel": {
+             "contentImage": {
+              "thumbnailViewModel": {
+               "image": {
+                "sources": [
+                 {
+                  "url": "https://i.ytimg.com/vi/synthVid004/hqdefault.jpg",
+                  "width": 336,
+                  "height": 188
+                 }
+                ]
+               },
+               "overlays": [
+                {
+                 "thumbnailBottomOverlayViewModel": {
+                  "badges": [
+                   {
+                    "thumbnailBadgeViewModel": {
+                     "text": "21:10",
+                     "badgeStyle": "THUMBNAIL_OVERLAY_BADGE_STYLE_DEFAULT"
+                    }
+                   }
+                  ]
+                 }
+                }
+               ]
+              }
+             },
+             "metadata": {
+              "lockupMetadataViewModel": {
+               "title": {
+                "content": "Synthetic video 4"
+               },
+               "image": {
+                "decoratedAvatarViewModel": {
+                 "avatar": {
+                  "avatarViewModel": {
+                   "image": {
+                    "sources": [
+                     {
+                      "url": "https://yt3.example/synth1=s68",
+                      "width": 68,
+                      "height": 68
+                     }
+                    ]
+                   },
+                   "avatarImageSize": "AVATAR_SIZE_M"
+                  }
+                 },
+                 "a11yLabel": "Go to channel Synthetic Channel 1",
+                 "rendererContext": {
+                  "commandContext": {
+                   "onTap": {
+                    "innertubeCommand": {
+                     "commandMetadata": {
+                      "webCommandMetadata": {
+                       "url": "/@synthchannel1",
+                       "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                       "rootVe": 3611,
+                       "apiUrl": "/youtubei/v1/browse"
+                      }
+                     },
+                     "browseEndpoint": {
+                      "browseId": "UCsynth01xxxxxxxxxxxxxxx",
+                      "canonicalBaseUrl": "/@synthchannel1"
+                     }
+                    }
+                   }
+                  }
+                 }
+                }
+               },
+               "metadata": {
+                "contentMetadataViewModel": {
+                 "metadataRows": [
+                  {
+                   "metadataParts": [
+                    {
+                     "text": {
+                      "content": "Synthetic Channel 1"
+                     }
+                    }
+                   ]
+                  },
+                  {
+                   "metadataParts": [
+                    {
+                     "text": {
+                      "content": "2.1M"
+                     },
+                     "accessibilityLabel": "2.1 million views"
+                    },
+                    {
+                     "text": {
+                      "content": "2d ago"
+                     },
+                     "accessibilityLabel": "2 days ago"
+                    }
+                   ]
+                  }
+                 ],
+                 "delimiter": " "
+                }
+               }
+              }
+             },
+             "contentId": "synthVid004",
+             "contentType": "LOCKUP_CONTENT_TYPE_VIDEO",
+             "rendererContext": {
+              "commandContext": {
+               "onTap": {
+                "innertubeCommand": {
+                 "commandMetadata": {
+                  "webCommandMetadata": {
+                   "url": "/watch?v=synthVid004",
+                   "webPageType": "WEB_PAGE_TYPE_WATCH",
+                   "rootVe": 3832
+                  }
+                 },
+                 "watchEndpoint": {
+                  "videoId": "synthVid004",
+                  "nofollow": true
+                 }
+                }
+               }
+              }
+             }
+            }
+           }
+          }
+         },
+         {
+          "continuationItemRenderer": {
+           "trigger": "CONTINUATION_TRIGGER_ON_ITEM_SHOWN",
+           "continuationEndpoint": {
+            "commandMetadata": {
+             "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/browse"
+             }
+            },
+            "continuationCommand": {
+             "token": "SYNTH_TOKEN_PAGE_2",
+             "request": "CONTINUATION_REQUEST_TYPE_BROWSE"
+            }
+           }
+          }
+         }
+        ]
+       }
+      }
+     }
+    }
+   ]
+  }
+ }
+}

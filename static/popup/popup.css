@@ -1,0 +1,77 @@
+:root {
+  --bg: #ffffff;
+  --fg: #0f0f0f;
+  --muted: #606060;
+  --line: #e5e5e5;
+  --accent: #cc0000;
+  --track: #c7c7c7;
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #212121;
+    --fg: #f1f1f1;
+    --muted: #aaaaaa;
+    --line: #3d3d3d;
+    --accent: #ff4e45;
+    --track: #555555;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  width: 300px;
+  padding: 14px 16px;
+  font: 13px/1.4 Roboto, system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+}
+header { display: flex; align-items: center; justify-content: space-between; }
+h1 { font-size: 15px; margin: 0; font-weight: 600; }
+.state { margin: 8px 0 12px; color: var(--muted); }
+.option {
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  padding: 10px 0; margin-bottom: 12px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); cursor: pointer;
+}
+.option strong { display: block; font-weight: 500; }
+.option small { display: block; color: var(--muted); font-size: 11px; margin-top: 2px; }
+.option .switch { flex: none; }
+.stats { display: grid; grid-template-columns: 1fr auto; gap: 4px 12px; margin: 0 0 14px; }
+.stats dt { color: var(--muted); }
+.stats dd { margin: 0; text-align: right; font-variant-numeric: tabular-nums; max-width: 110px; }
+footer { border-top: 1px solid var(--line); padding-top: 12px; }
+.note { color: var(--muted); font-size: 11px; margin: 8px 0 0; }
+.support a { color: var(--fg); text-decoration: none; font-weight: 500; }
+.support a:hover { text-decoration: underline; }
+button.danger {
+  font: inherit; color: var(--accent); background: transparent;
+  border: 1px solid var(--line); border-radius: 18px; padding: 6px 14px; cursor: pointer;
+}
+button.danger:hover { border-color: var(--accent); }
+.switch { position: relative; display: inline-block; width: 36px; height: 20px; cursor: pointer; }
+.switch input { opacity: 0; width: 0; height: 0; position: absolute; }
+.slider { position: absolute; inset: 0; background: var(--track); border-radius: 10px; transition: background .15s; }
+.slider::before {
+  content: ""; position: absolute; width: 16px; height: 16px; left: 2px; top: 2px;
+  background: #fff; border-radius: 50%; transition: transform .15s;
+}
+.switch input:checked + .slider { background: var(--accent); }
+.switch input:checked + .slider::before { transform: translateX(16px); }
+.switch input:focus-visible + .slider { outline: 2px solid var(--fg); outline-offset: 2px; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+
+.community { margin-bottom: 12px; }
+.community .option { margin-bottom: 0; }
+.consent { margin: 10px 0 0; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; font-size: 12px; }
+.consent p { margin: 0 0 4px; }
+.consent ul { margin: 0 0 8px; padding-left: 18px; color: var(--muted); }
+.consent li { margin-bottom: 4px; }
+.consent-actions { display: flex; gap: 8px; margin-top: 8px; }
+.consent-actions button {
+  font: inherit; border-radius: 18px; padding: 6px 14px; cursor: pointer;
+  border: 1px solid var(--line); background: transparent; color: var(--fg);
+}
+.consent-actions button.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+/* The turn-off confirmation: an amber edge so it reads as "check this", not as an error. */
+.consent.warning { border-color: #f2a600; }
+.consent.warning p { color: var(--fg); margin-bottom: 6px; }

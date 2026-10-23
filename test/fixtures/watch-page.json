@@ -1,0 +1,1074 @@
+{
+ "currentVideoEndpoint": {
+  "watchEndpoint": {
+   "videoId": "NiCgcUTL9_Q"
+  }
+ },
+ "contents": {
+  "twoColumnWatchNextResults": {
+   "results": {
+    "results": {
+     "contents": [
+      {
+       "videoPrimaryInfoRenderer": {
+        "title": {
+         "runs": [
+          {
+           "text": "The Absurd Engineering Behind the Internet"
+          }
+         ]
+        },
+        "viewCount": {
+         "videoViewCountRenderer": {
+          "viewCount": {
+           "simpleText": "6,030,354 views"
+          },
+          "extraShortViewCount": {
+           "simpleText": "6M"
+          },
+          "entityKey": "EgtOaUNnY1VUTDlfUSDCASgB",
+          "originalViewCount": "6030354"
+         }
+        },
+        "dateText": {
+         "simpleText": "Oct 12, 2026"
+        },
+        "relativeDateText": {
+         "simpleText": "3 days ago"
+        }
+       }
+      },
+      {
+       "videoSecondaryInfoRenderer": {
+        "owner": {
+         "videoOwnerRenderer": {
+          "thumbnail": {
+           "thumbnails": [
+            {
+             "url": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s48-c-k-c0x00ffffff-no-rj",
+             "width": 48,
+             "height": 48
+            },
+            {
+             "url": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s88-c-k-c0x00ffffff-no-rj",
+             "width": 88,
+             "height": 88
+            },
+            {
+             "url": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s176-c-k-c0x00ffffff-no-rj",
+             "width": 176,
+             "height": 176
+            }
+           ]
+          },
+          "title": {
+           "runs": [
+            {
+             "text": "Veritasium",
+             "navigationEndpoint": {
+              "commandMetadata": {
+               "webCommandMetadata": {
+                "url": "/@veritasium",
+                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                "rootVe": 3611,
+                "apiUrl": "/youtubei/v1/browse"
+               }
+              },
+              "browseEndpoint": {
+               "browseId": "UCHnyfMqiRRG1u-2MsSQLbXA",
+               "canonicalBaseUrl": "/@veritasium"
+              }
+             }
+            }
+           ]
+          },
+          "subscriptionButton": {
+           "type": "FREE"
+          },
+          "navigationEndpoint": {
+           "commandMetadata": {
+            "webCommandMetadata": {
+             "url": "/@veritasium",
+             "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+             "rootVe": 3611,
+             "apiUrl": "/youtubei/v1/browse"
+            }
+           },
+           "browseEndpoint": {
+            "browseId": "UCHnyfMqiRRG1u-2MsSQLbXA",
+            "canonicalBaseUrl": "/@veritasium"
+           }
+          },
+          "subscriberCountText": {
+           "simpleText": "21.4M subscribers"
+          },
+          "badges": [
+           {
+            "metadataBadgeRenderer": {
+             "icon": {
+              "iconType": "CHECK_CIRCLE_THICK"
+             },
+             "style": "BADGE_STYLE_TYPE_VERIFIED",
+             "tooltip": "Verified",
+             "accessibilityData": {
+              "label": "Verified"
+             }
+            }
+           }
+          ]
+         }
+        },
+        "showMoreText": {
+         "simpleText": "...more"
+        },
+        "showLessText": {
+         "simpleText": "Show less"
+        },
+        "defaultExpanded": false,
+        "descriptionCollapsedLines": 3,
+        "attributedDescription": {
+         "content": "Why making glass fibers to send signals was almost impossible. Sponsored by Saily - 🌎 Get an exclusive 15% discount on Saily data plans!  Download Saily app go to https://saily.com/veritasium Use code veritasium at checkout ⛵\n\nIf you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV \n\nFor the latest science news, and for an exclusive bonus Q&A with Sulli, the director of this video, sign up to the Veritasium newsletter - https://ve42.co/VeMail_FO\n\nFor early access to work in progress videos join our patreon https://ve42.co/VePatreon \n\n▀▀▀\n0:00 What are fiber optics?\n2:02 Why Copper Phone Lines Had Limited Capacity\n5:13 Trying To Go From Copper Communication To Glass\n8:15 Why is glass so ‘lossy’?\n11:29 Scattering and Absorption\n16:00 How can you remove impurities in glass?\n19:00 How They Make Fiber Optic Glass\n26:47 The Technology that Made the Internet Possible \n\n▀▀▀\nSpecial thanks to the experts and collaborators who made this video possible:\nDr. Donald Keck\nProf. Vincent Chan\nSir David Payne\nDr. Nikola Alic\nJim Hayes\nJeff Hecht, whose book City of Light: The Story of Fiber Optics was an invaluable resource for this video (explore his work at https://www.jeffhecht.com).\nDiffraction Limited, who made the fiber kits we used and some additional simulations that were critical to our understanding (   / @diffractionlimited  )\nTrulala CANDY Chef (   / @trulalacandychef  )\nAdditional thanks to:\nROSENDAHL NEXTROM for providing animations and fiber manufacturing 3D assets: (https://rosendahlnextrom.com/fiber/)\nBay Area Glass Institute for hosting our team. (https://bagi.org/)\nPrysmian for giving us a guided tour of their fiber manufacturing plant, and our two on screen experts:\nSujeet Rao, Operational Excellence Fiber Director and Jon Fitz, Technical Sales Support Sr. Manager.\n\n▀▀▀\nReferences: https://ve42.co/FiberRefs\n\nNote: The skin effect explanation is simplified. The full analysis involves the eddy currents' own magnetic fields, which induce further currents, and so on. Here’s an article on the same: https://ve42.co/SkinEffectDerivation\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, André Powell, Anton Ragin, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Bryan Ackermann, Chris Brewer, Data Don, Dave Kircher, David Johnston, David Tseng, EJ Alexandra, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Hayden Christensen, Hong Thai Le, Ibby Hadeed, Jeromy Johnson, Juan Benet, Kelcey Steele, Kyi, Lee Redden, Marinus Kuivenhoven, Mark Heising, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Parsee Health, Patreon mp22, Paul Peijzel, Robson, Sam Lutfi, Shalva Bukia, Sinan Taifour, Steven, Sweet_Nemo, Tair Aurmont, Tj Steyn, Ubiquity Ventures, Vahe Andonians, wolfee\n\n▀▀▀\nCredits\nWriters: Sulli Yost, Henry van Dyck\nProducer and Director: Sulli Yost\nPresenter: Henry van Dyck\nEditors: George Reynolds, Trenton Oliver and Axel Oliver\nAssistant Editor: James Stuart\nIllustrators: Jakub Misiek, Raphael Aubry, Thomas Brizard and Emma Wright\nAnimators: Aleksandrs Loginovs, Alex Drakoulis, Andrew Neet, Andrew Wernette, Domonkos Józsa, Emma Wright, Fabio Albertelli, Rokas Viksraitis and Sulli Yost\nResearchers: Aakash Singh Bagga, Sophia Rose, Callum Cuttle and Gabe Strong\nCamera Operators: Sulli Yost, Aaron Zhizhin, Emilia Gyles and Jesse Chandler\nThumbnail Designers: Abdallah Rabah, Daniel Ellacott\nProduction Team: Anna Milkovic, Glen Griffiths, Jess Bishop-Laggett, Matthew Cavanagh\nExecutive Producers: Derek Muller, Emilia Gyles and Henry van Dyck",
+         "commandRuns": [
+          {
+           "startIndex": 164,
+           "length": 28,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRWFDWTB6eG1LVUhaRURKQTd1THJyTnxBSTVJdTV0UFgyTWstUTFPV21XVHh1SzE2Vmg5ZnZwdmhLeEhWZ2Z1SjJ0Q18tcUMydXdPMlRVUVYyUTZ3SWhScWVRVFc4bU5YYlFMRWxKUVNkNmR2cDVKWkNNd2E4Rlhnb1lI&q=https%3A%2F%2Fsaily.com%2Fveritasium&v=NiCgcUTL9_Q",
+               "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+               "rootVe": 83769
+              }
+             },
+             "urlEndpoint": {
+              "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRWFDWTB6eG1LVUhaRURKQTd1THJyTnxBSTVJdTV0UFgyTWstUTFPV21XVHh1SzE2Vmg5ZnZwdmhLeEhWZ2Z1SjJ0Q18tcUMydXdPMlRVUVYyUTZ3SWhScWVRVFc4bU5YYlFMRWxKUVNkNmR2cDVKWkNNd2E4Rlhnb1lI&q=https%3A%2F%2Fsaily.com%2Fveritasium&v=NiCgcUTL9_Q",
+              "target": "TARGET_NEW_WINDOW",
+              "nofollow": true
+             }
+            }
+           }
+          },
+          {
+           "startIndex": 352,
+           "length": 24,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSEhDZ01Db0ZDOHRCREdpNncxcTZ1RnxBSTVJdTVzRUg4SDNMdFBndFBrSzZDaEZBN2VyUFpLTHpObk80eXF3TDNBN0RQbENnSV9RZWU2ZFpfeXpYTUJtQUZSbEJORXFFSmgwUkRjZEpaWklUWGM5QnpvTHE1Z3lIc3E2&q=https%3A%2F%2Fve42.co%2FSnatomsV&v=NiCgcUTL9_Q",
+               "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+               "rootVe": 83769
+              }
+             },
+             "urlEndpoint": {
+              "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSEhDZ01Db0ZDOHRCREdpNncxcTZ1RnxBSTVJdTVzRUg4SDNMdFBndFBrSzZDaEZBN2VyUFpLTHpObk80eXF3TDNBN0RQbENnSV9RZWU2ZFpfeXpYTUJtQUZSbEJORXFFSmgwUkRjZEpaWklUWGM5QnpvTHE1Z3lIc3E2&q=https%3A%2F%2Fve42.co%2FSnatomsV&v=NiCgcUTL9_Q",
+              "target": "TARGET_NEW_WINDOW",
+              "nofollow": true
+             }
+            }
+           }
+          },
+          {
+           "startIndex": 518,
+           "length": 25,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRzNhSEpqLTBTeWZ0akNmek9nQVZnN3xBSTVJdTVzUkxaeF9tVzlUTUxfMVBzLXo2QkhPblJyVjc1MEhCNjRNNXRKY2dXbUZ5YlFQUFVqUDlvakFoc1VMZkh0ZVUydWwwTWdwUnhhXzRfdExkZDllbFZjYnN1S0VULUR2&q=https%3A%2F%2Fve42.co%2FVeMail_FO&v=NiCgcUTL9_Q",
+               "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+               "rootVe": 83769
+              }
+             },
+             "urlEndpoint": {
+              "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRzNhSEpqLTBTeWZ0akNmek9nQVZnN3xBSTVJdTVzUkxaeF9tVzlUTUxfMVBzLXo2QkhPblJyVjc1MEhCNjRNNXRKY2dXbUZ5YlFQUFVqUDlvakFoc1VMZkh0ZVUydWwwTWdwUnhhXzRfdExkZDllbFZjYnN1S0VULUR2&q=https%3A%2F%2Fve42.co%2FVeMail_FO&v=NiCgcUTL9_Q",
+              "target": "TARGET_NEW_WINDOW",
+              "nofollow": true
+             }
+            }
+           }
+          },
+          {
+           "startIndex": 606,
+           "length": 25,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSHY1UVNtM0hOZ2pXTjhnS0JtNFIxLXxBSTVJdTV0X1dyeHhSNVV2YmdyM2xBUkd0X0RNVGZkbEFhVFdBLUNDdEpkMjJBeUtYVlAyd1FPcTBDVTNYeFAxbTJhUHpZTTc5UmR5SnloZkRmY2hIRjVGTkNlMDN6Ri1Eekxv&q=https%3A%2F%2Fve42.co%2FVePatreon&v=NiCgcUTL9_Q",
+               "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+               "rootVe": 83769
+              }
+             },
+             "urlEndpoint": {
+              "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSHY1UVNtM0hOZ2pXTjhnS0JtNFIxLXxBSTVJdTV0X1dyeHhSNVV2YmdyM2xBUkd0X0RNVGZkbEFhVFdBLUNDdEpkMjJBeUtYVlAyd1FPcTBDVTNYeFAxbTJhUHpZTTc5UmR5SnloZkRmY2hIRjVGTkNlMDN6Ri1Eekxv&q=https%3A%2F%2Fve42.co%2FVePatreon&v=NiCgcUTL9_Q",
+              "target": "TARGET_NEW_WINDOW",
+              "nofollow": true
+             }
+            }
+           }
+          },
+          {
+           "startIndex": 638,
+           "length": 4,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "/watch?v=NiCgcUTL9_Q",
+               "webPageType": "WEB_PAGE_TYPE_WATCH",
+               "rootVe": 3832
+              }
+             },
+             "watchEndpoint": {
+              "videoId": "NiCgcUTL9_Q",
+              "continuePlayback": true
+             }
+            }
+           },
+           "onTapOptions": {
+            "accessibilityInfo": {
+             "accessibilityLabel": "0 seconds"
+            }
+           }
+          },
+          {
+           "startIndex": 666,
+           "length": 4,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "/watch?v=NiCgcUTL9_Q&t=122s",
+               "webPageType": "WEB_PAGE_TYPE_WATCH",
+               "rootVe": 3832
+              }
+             },
+             "watchEndpoint": {
+              "videoId": "NiCgcUTL9_Q",
+              "continuePlayback": true,
+              "startTimeSeconds": 122
+             }
+            }
+           },
+           "onTapOptions": {
+            "accessibilityInfo": {
+             "accessibilityLabel": "2 minutes, 2 seconds"
+            }
+           }
+          },
+          {
+           "startIndex": 715,
+           "length": 4,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "/watch?v=NiCgcUTL9_Q&t=313s",
+               "webPageType": "WEB_PAGE_TYPE_WATCH",
+               "rootVe": 3832
+              }
+             },
+             "watchEndpoint": {
+              "videoId": "NiCgcUTL9_Q",
+              "continuePlayback": true,
+              "startTimeSeconds": 313
+             }
+            }
+           },
+           "onTapOptions": {
+            "accessibilityInfo": {
+             "accessibilityLabel": "5 minutes, 13 seconds"
+            }
+           }
+          },
+          {
+           "startIndex": 768,
+           "length": 4,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "/watch?v=NiCgcUTL9_Q&t=495s",
+               "webPageType": "WEB_PAGE_TYPE_WATCH",
+               "rootVe": 3832
+              }
+             },
+             "watchEndpoint": {
+              "videoId": "NiCgcUTL9_Q",
+              "continuePlayback": true,
+              "startTimeSeconds": 495
+             }
+            }
+           },
+           "onTapOptions": {
+            "accessibilityInfo": {
+             "accessibilityLabel": "8 minutes, 15 seconds"
+            }
+           }
+          },
+          {
+           "startIndex": 798,
+           "length": 5,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "/watch?v=NiCgcUTL9_Q&t=689s",
+               "webPageType": "WEB_PAGE_TYPE_WATCH",
+               "rootVe": 3832
+              }
+             },
+             "watchEndpoint": {
+              "videoId": "NiCgcUTL9_Q",
+              "continuePlayback": true,
+              "startTimeSeconds": 689
+             }
+            }
+           },
+           "onTapOptions": {
+            "accessibilityInfo": {
+             "accessibilityLabel": "11 minutes, 29 seconds"
+            }
+           }
+          },
+          {
+           "startIndex": 830,
+           "length": 5,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "/watch?v=NiCgcUTL9_Q&t=960s&pp=0gcJCWMAwfN6Pr3D",
+               "webPageType": "WEB_PAGE_TYPE_WATCH",
+               "rootVe": 3832
+              }
+             },
+             "watchEndpoint": {
+              "videoId": "NiCgcUTL9_Q",
+              "continuePlayback": true,
+              "startTimeSeconds": 960,
+              "playerParams": "0gcJCWMAwfN6Pr3D"
+             }
+            }
+           },
+           "onTapOptions": {
+            "accessibilityInfo": {
+             "accessibilityLabel": "16 minutes"
+            }
+           }
+          },
+          {
+           "startIndex": 876,
+           "length": 5,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "/watch?v=NiCgcUTL9_Q&t=1140s",
+               "webPageType": "WEB_PAGE_TYPE_WATCH",
+               "rootVe": 3832
+              }
+             },
+             "watchEndpoint": {
+              "videoId": "NiCgcUTL9_Q",
+              "continuePlayback": true,
+              "startTimeSeconds": 1140
+             }
+            }
+           },
+           "onTapOptions": {
+            "accessibilityInfo": {
+             "accessibilityLabel": "19 minutes"
+            }
+           }
+          },
+          {
+           "startIndex": 914,
+           "length": 5,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "/watch?v=NiCgcUTL9_Q&t=1607s",
+               "webPageType": "WEB_PAGE_TYPE_WATCH",
+               "rootVe": 3832
+              }
+             },
+             "watchEndpoint": {
+              "videoId": "NiCgcUTL9_Q",
+              "continuePlayback": true,
+              "startTimeSeconds": 1607
+             }
+            }
+           },
+           "onTapOptions": {
+            "accessibilityInfo": {
+             "accessibilityLabel": "26 minutes, 47 seconds"
+            }
+           }
+          },
+          {
+           "startIndex": 1255,
+           "length": 25,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR3hZUmctQlJ2cWdJcTM5WVc4OUdUY3xBSTVJdTV2Z3RteVd6Wl9FMEoteUhNT2c3YUUtQ0dlZEdCQVREQktUSFZZMzBWQm9ibkREYUVBNElCa1p3SkM3dTZ0RVl2MU5UR0N2UnhicGc2WGw0bkFvbUVTcUhMUThmSWpn&q=https%3A%2F%2Fwww.jeffhecht.com%2F&v=NiCgcUTL9_Q",
+               "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+               "rootVe": 83769
+              }
+             },
+             "urlEndpoint": {
+              "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR3hZUmctQlJ2cWdJcTM5WVc4OUdUY3xBSTVJdTV2Z3RteVd6Wl9FMEoteUhNT2c3YUUtQ0dlZEdCQVREQktUSFZZMzBWQm9ibkREYUVBNElCa1p3SkM3dTZ0RVl2MU5UR0N2UnhicGc2WGw0bkFvbUVTcUhMUThmSWpn&q=https%3A%2F%2Fwww.jeffhecht.com%2F&v=NiCgcUTL9_Q",
+              "target": "TARGET_NEW_WINDOW",
+              "nofollow": true
+             }
+            }
+           }
+          },
+          {
+           "startIndex": 1409,
+           "length": 26,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "/channel/UCune493q6fu9nLH_JkwOUhw",
+               "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+               "rootVe": 3611,
+               "apiUrl": "/youtubei/v1/browse"
+              }
+             },
+             "browseEndpoint": {
+              "browseId": "UCune493q6fu9nLH_JkwOUhw",
+              "canonicalBaseUrl": "/channel/UCune493q6fu9nLH_JkwOUhw"
+             }
+            }
+           },
+           "onTapOptions": {
+            "accessibilityInfo": {
+             "accessibilityLabel": "YouTube Channel Link: @DiffractionLimited"
+            }
+           }
+          },
+          {
+           "startIndex": 1457,
+           "length": 24,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "/channel/UCiDdDfxWjYUym8kZxc806MA",
+               "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+               "rootVe": 3611,
+               "apiUrl": "/youtubei/v1/browse"
+              }
+             },
+             "browseEndpoint": {
+              "browseId": "UCiDdDfxWjYUym8kZxc806MA",
+              "canonicalBaseUrl": "/channel/UCiDdDfxWjYUym8kZxc806MA"
+             }
+            }
+           },
+           "onTapOptions": {
+            "accessibilityInfo": {
+             "accessibilityLabel": "YouTube Channel Link: @TrulalaCANDYChef"
+            }
+           }
+          },
+          {
+           "startIndex": 1584,
+           "length": 35,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRVRQd2tOcTIxNnhUajlZQlRMcGRfLXxBSTVJdTV1OHpWY25IS2cyOTFUNkRJUnlSaThBX3g4ZU85amxWTnprLS0tQTdQMmNiQ2RPNXF4d0o1OGZ5dmRrdnZpTGFnNVpmd1lMaVd0WGVWRFFwWHB3eW1xa0NWRFdLd1Jp&q=https%3A%2F%2Frosendahlnextrom.com%2Ffiber%2F&v=NiCgcUTL9_Q",
+               "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+               "rootVe": 83769
+              }
+             },
+             "urlEndpoint": {
+              "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRVRQd2tOcTIxNnhUajlZQlRMcGRfLXxBSTVJdTV1OHpWY25IS2cyOTFUNkRJUnlSaThBX3g4ZU85amxWTnprLS0tQTdQMmNiQ2RPNXF4d0o1OGZ5dmRrdnZpTGFnNVpmd1lMaVd0WGVWRFFwWHB3eW1xa0NWRFdLd1Jp&q=https%3A%2F%2Frosendahlnextrom.com%2Ffiber%2F&v=NiCgcUTL9_Q",
+              "target": "TARGET_NEW_WINDOW",
+              "nofollow": true
+             }
+            }
+           }
+          },
+          {
+           "startIndex": 1669,
+           "length": 17,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRThUWUpMV0tFcl9kTGpmSVVaTjlYS3xBSTVJdTV1VXpVSnhORUtxeEFvLVVobEgyUU44c0pVSzNVaTZDdTFjcnBka3VGWUtLQ2hfakotb2FxbVBkcHl6ZmdnOGFsR2FMcTJVOWNwc2ZZMHJndUN1bjJJOVhYZU96Uzl1&q=https%3A%2F%2Fbagi.org%2F&v=NiCgcUTL9_Q",
+               "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+               "rootVe": 83769
+              }
+             },
+             "urlEndpoint": {
+              "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRThUWUpMV0tFcl9kTGpmSVVaTjlYS3xBSTVJdTV1VXpVSnhORUtxeEFvLVVobEgyUU44c0pVSzNVaTZDdTFjcnBka3VGWUtLQ2hfakotb2FxbVBkcHl6ZmdnOGFsR2FMcTJVOWNwc2ZZMHJndUN1bjJJOVhYZU96Uzl1&q=https%3A%2F%2Fbagi.org%2F&v=NiCgcUTL9_Q",
+              "target": "TARGET_NEW_WINDOW",
+              "nofollow": true
+             }
+            }
+           }
+          },
+          {
+           "startIndex": 1910,
+           "length": 25,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSG1WcW5vQ2RnWFExeGFMWWk1ZnVObXxBSTVJdTVzT1hsQUhCaVhjWTF2am4tQnNuNDRNZVRrX0NKVmphT0JER2g3SmVEWVlGNTdGM2k1Sk43U0drVHltNk9GaTFaQW9FcVZ5OUdPU2w0ajZoYXhpQ2s3YkRhNlBTUDFJ&q=https%3A%2F%2Fve42.co%2FFiberRefs&v=NiCgcUTL9_Q",
+               "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+               "rootVe": 83769
+              }
+             },
+             "urlEndpoint": {
+              "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSG1WcW5vQ2RnWFExeGFMWWk1ZnVObXxBSTVJdTVzT1hsQUhCaVhjWTF2am4tQnNuNDRNZVRrX0NKVmphT0JER2g3SmVEWVlGNTdGM2k1Sk43U0drVHltNk9GaTFaQW9FcVZ5OUdPU2w0ajZoYXhpQ2s3YkRhNlBTUDFJ&q=https%3A%2F%2Fve42.co%2FFiberRefs&v=NiCgcUTL9_Q",
+              "target": "TARGET_NEW_WINDOW",
+              "nofollow": true
+             }
+            }
+           }
+          },
+          {
+           "startIndex": 2126,
+           "length": 36,
+           "onTap": {
+            "innertubeCommand": {
+             "commandMetadata": {
+              "webCommandMetadata": {
+               "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRmRkSWd0V0gxRDdOS0h5dzJqY2JNQnxBSTVJdTV2NXBoNWFqNVc4bFdlTzlQZC1TcFAwdjZRcnBaMVFydmREM2FSWEJDdVdxa1B1RmduMmZTQ1NfZlZ3ZDZYamZkTV9TeUNMNVk2SjAya256QzE2UWgwOVgtYzNRdEJC&q=https%3A%2F%2Fve42.co%2FSkinEffectDerivation&v=NiCgcUTL9_Q",
+               "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+               "rootVe": 83769
+              }
+             },
+             "urlEndpoint": {
+              "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRmRkSWd0V0gxRDdOS0h5dzJqY2JNQnxBSTVJdTV2NXBoNWFqNVc4bFdlTzlQZC1TcFAwdjZRcnBaMVFydmREM2FSWEJDdVdxa1B1RmduMmZTQ1NfZlZ3ZDZYamZkTV9TeUNMNVk2SjAya256QzE2UWgwOVgtYzNRdEJC&q=https%3A%2F%2Fve42.co%2FSkinEffectDerivation&v=NiCgcUTL9_Q",
+              "target": "TARGET_NEW_WINDOW",
+              "nofollow": true
+             }
+            }
+           }
+          }
+         ]
+        }
+       }
+      }
+     ]
+    }
+   },
+   "secondaryResults": {
+    "secondaryResults": {
+     "results": [
+      {
+       "lockupViewModel": {
+        "contentImage": {
+         "thumbnailViewModel": {
+          "image": {
+           "sources": [
+            {
+             "url": "https://i.ytimg.com/vi/ujkD4SxPKOI/hqdefault_custom_1.jpg?sqp=CMCWxNYG-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAAAAYASUAAMhCPQCAokN4AbgC9xg=&rs=AOn4CLCaILYjFKfxZvNvtOMbbTktmVfeGQ&usqp=CCc",
+             "width": 168,
+             "height": 94
+            },
+            {
+             "url": "https://i.ytimg.com/vi/ujkD4SxPKOI/hqdefault_custom_1.jpg?sqp=CMCWxNYG-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLBzBq1ziVwM7Eu77lKWHzy_qPzDzA&usqp=CCc",
+             "width": 336,
+             "height": 188
+            },
+            {
+             "url": "https://i.ytimg.com/vi/ujkD4SxPKOI/hq720_custom_1.jpg?sqp=CMCWxNYG-oaymwEbCPIDEJgCSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBV9EkGBRmgm_sk-nGrAoWOcbEqZg&usqp=CCc",
+             "width": 498,
+             "height": 280
+            },
+            {
+             "url": "https://i.ytimg.com/vi/ujkD4SxPKOI/hq720_custom_1.jpg?sqp=CMCWxNYG-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLCprTTywsgTfOG17MgjicOFHYKiPQ&usqp=CCc",
+             "width": 720,
+             "height": 404
+            }
+           ]
+          },
+          "overlays": [
+           {
+            "thumbnailBottomOverlayViewModel": {
+             "badges": [
+              {
+               "thumbnailBadgeViewModel": {
+                "text": "21:44",
+                "badgeStyle": "THUMBNAIL_OVERLAY_BADGE_STYLE_DEFAULT",
+                "rendererContext": {
+                 "accessibilityContext": {
+                  "label": "21 minutes, 44 seconds"
+                 }
+                }
+               }
+              }
+             ]
+            }
+           }
+          ]
+         }
+        },
+        "metadata": {
+         "lockupMetadataViewModel": {
+          "title": {
+           "content": "AI Just Crossed the Terrifying Line - Now What?"
+          },
+          "image": {
+           "decoratedAvatarViewModel": {
+            "avatar": {
+             "avatarViewModel": {
+              "image": {
+               "sources": [
+                {
+                 "url": "https://yt3.ggpht.com/ytc/AIdro_n1Ribd7LwdP_qKtqWL3ZDfIgv9M1d6g78VwpHGXVR2Ir4=s68-c-k-c0x00ffffff-no-rj",
+                 "width": 68,
+                 "height": 68
+                }
+               ]
+              },
+              "avatarImageSize": "AVATAR_SIZE_M"
+             }
+            },
+            "a11yLabel": "Go to channel Kurzgesagt – In a Nutshell",
+            "rendererContext": {
+             "commandContext": {
+              "onTap": {
+               "innertubeCommand": {
+                "commandMetadata": {
+                 "webCommandMetadata": {
+                  "url": "/@kurzgesagt",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                 }
+                },
+                "browseEndpoint": {
+                 "browseId": "UCsXVk37bltHxD1rDPwtNM8Q",
+                 "canonicalBaseUrl": "/@kurzgesagt"
+                }
+               }
+              }
+             }
+            }
+           }
+          },
+          "metadata": {
+           "contentMetadataViewModel": {
+            "metadataRows": [
+             {
+              "metadataParts": [
+               {
+                "text": {
+                 "content": "Kurzgesagt – In a Nutshell"
+                }
+               }
+              ]
+             },
+             {
+              "metadataParts": [
+               {
+                "text": {
+                 "content": "19M"
+                },
+                "accessibilityLabel": "19 million views",
+                "leadingIcon": {
+                 "name": "PLAY_ARROW_OUTLINED",
+                 "height": 12,
+                 "width": 12,
+                 "marginEndToken": {
+                  "spacing": 2
+                 }
+                }
+               },
+               {
+                "text": {
+                 "content": "10d ago"
+                },
+                "accessibilityLabel": "10 days ago"
+               }
+              ]
+             }
+            ],
+            "delimiter": " "
+           }
+          }
+         }
+        },
+        "contentId": "ujkD4SxPKOI",
+        "contentType": "LOCKUP_CONTENT_TYPE_VIDEO",
+        "rendererContext": {
+         "accessibilityContext": {
+          "label": "AI Just Crossed the Terrifying Line - Now What? 21 minutes"
+         },
+         "commandContext": {
+          "onTap": {
+           "innertubeCommand": {
+            "commandMetadata": {
+             "webCommandMetadata": {
+              "url": "/watch?v=ujkD4SxPKOI&pp=ugUEEgJlbg%3D%3D",
+              "webPageType": "WEB_PAGE_TYPE_WATCH",
+              "rootVe": 3832
+             }
+            },
+            "watchEndpoint": {
+             "videoId": "ujkD4SxPKOI",
+             "playerParams": "ugUEEgJlbg%3D%3D",
+             "nofollow": true,
+             "ustreamerConfig": "KgYKBBICZW4="
+            }
+           }
+          }
+         }
+        }
+       }
+      },
+      {
+       "lockupViewModel": {
+        "contentImage": {
+         "thumbnailViewModel": {
+          "image": {
+           "sources": [
+            {
+             "url": "https://i.ytimg.com/vi/Tt6WQYtefXA/hqdefault_custom_3.jpg?sqp=CMCWxNYG-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAAAAYASUAAMhCPQCAokN4AbgC9xg=&rs=AOn4CLBtGJrxuZcVLCEOqPKLg3qlBx-pmg&usqp=CCc",
+             "width": 168,
+             "height": 94
+            },
+            {
+             "url": "https://i.ytimg.com/vi/Tt6WQYtefXA/hqdefault_custom_3.jpg?sqp=CMCWxNYG-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAwWtrnS0SCyigweMCJ1nQxitaR-A&usqp=CCc",
+             "width": 336,
+             "height": 188
+            },
+            {
+             "url": "https://i.ytimg.com/vi/Tt6WQYtefXA/hq720_custom_3.jpg?sqp=CMCWxNYG-oaymwEbCPIDEJgCSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLAXEcXlLyFTHIBzMuTwZdj4Lt7rAQ&usqp=CCc",
+             "width": 498,
+             "height": 280
+            },
+            {
+             "url": "https://i.ytimg.com/vi/Tt6WQYtefXA/hq720_custom_3.jpg?sqp=CMCWxNYG-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBrBVV8BI4SuxCziz6pD-UwzNqh7A&usqp=CCc",
+             "width": 720,
+             "height": 404
+            }
+           ]
+          },
+          "overlays": [
+           {
+            "thumbnailBottomOverlayViewModel": {
+             "badges": [
+              {
+               "thumbnailBadgeViewModel": {
+                "text": "25:27",
+                "badgeStyle": "THUMBNAIL_OVERLAY_BADGE_STYLE_DEFAULT",
+                "rendererContext": {
+                 "accessibilityContext": {
+                  "label": "25 minutes, 27 seconds"
+                 }
+                }
+               }
+              }
+             ]
+            }
+           }
+          ]
+         }
+        },
+        "metadata": {
+         "lockupMetadataViewModel": {
+          "title": {
+           "content": "How Japanese Masters Turn Sand Into Swords"
+          },
+          "image": {
+           "decoratedAvatarViewModel": {
+            "avatar": {
+             "avatarViewModel": {
+              "image": {
+               "sources": [
+                {
+                 "url": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s68-c-k-c0x00ffffff-no-rj",
+                 "width": 68,
+                 "height": 68
+                }
+               ]
+              },
+              "avatarImageSize": "AVATAR_SIZE_M"
+             }
+            },
+            "a11yLabel": "Go to channel Veritasium",
+            "rendererContext": {
+             "commandContext": {
+              "onTap": {
+               "innertubeCommand": {
+                "commandMetadata": {
+                 "webCommandMetadata": {
+                  "url": "/@veritasium",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                 }
+                },
+                "browseEndpoint": {
+                 "browseId": "UCHnyfMqiRRG1u-2MsSQLbXA",
+                 "canonicalBaseUrl": "/@veritasium"
+                }
+               }
+              }
+             }
+            }
+           }
+          },
+          "metadata": {
+           "contentMetadataViewModel": {
+            "metadataRows": [
+             {
+              "metadataParts": [
+               {
+                "text": {
+                 "content": "Veritasium"
+                }
+               }
+              ]
+             },
+             {
+              "metadataParts": [
+               {
+                "text": {
+                 "content": "22M"
+                },
+                "accessibilityLabel": "22 million views",
+                "leadingIcon": {
+                 "name": "PLAY_ARROW_OUTLINED",
+                 "height": 12,
+                 "width": 12,
+                 "marginEndToken": {
+                  "spacing": 2
+                 }
+                }
+               },
+               {
+                "text": {
+                 "content": "2y ago"
+                },
+                "accessibilityLabel": "2 years ago"
+               }
+              ]
+             }
+            ],
+            "delimiter": " "
+           }
+          }
+         }
+        },
+        "contentId": "Tt6WQYtefXA",
+        "contentType": "LOCKUP_CONTENT_TYPE_VIDEO",
+        "rendererContext": {
+         "accessibilityContext": {
+          "label": "How Japanese Masters Turn Sand Into Swords 25 minutes"
+         },
+         "commandContext": {
+          "onTap": {
+           "innertubeCommand": {
+            "commandMetadata": {
+             "webCommandMetadata": {
+              "url": "/watch?v=Tt6WQYtefXA&pp=ugUEEgJlbtIHCQlHDAGHKiGM7w%3D%3D",
+              "webPageType": "WEB_PAGE_TYPE_WATCH",
+              "rootVe": 3832
+             }
+            },
+            "watchEndpoint": {
+             "videoId": "Tt6WQYtefXA",
+             "playerParams": "ugUEEgJlbtIHCQlHDAGHKiGM7w%3D%3D",
+             "nofollow": true,
+             "ustreamerConfig": "KgYKBBICZW4="
+            }
+           }
+          }
+         }
+        }
+       }
+      },
+      {
+       "lockupViewModel": {
+        "contentImage": {
+         "thumbnailViewModel": {
+          "image": {
+           "sources": [
+            {
+             "url": "https://i.ytimg.com/vi/nQdXp6HKKik/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAAAAYASUAAMhCPQCAokN4AbgC9xg=&rs=AOn4CLBJ7dfyqVy21PWX_YVhhMrYydJiPg&usqp=CCc",
+             "width": 168,
+             "height": 94
+            },
+            {
+             "url": "https://i.ytimg.com/vi/nQdXp6HKKik/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAJrPhZppjczz0oKgwWRT1Ke4h8vQ&usqp=CCc",
+             "width": 336,
+             "height": 188
+            },
+            {
+             "url": "https://i.ytimg.com/vi/nQdXp6HKKik/hq720.jpg?sqp=-oaymwEbCPIDEJgCSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLCAaXpBOSPcR0v22dYMLFgGmxRMTA&usqp=CCc",
+             "width": 498,
+             "height": 280
+            },
+            {
+             "url": "https://i.ytimg.com/vi/nQdXp6HKKik/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLC3FehWyEpPm9JURQ473iM0k27QTw&usqp=CCc",
+             "width": 720,
+             "height": 404
+            }
+           ]
+          },
+          "overlays": [
+           {
+            "thumbnailBottomOverlayViewModel": {
+             "badges": [
+              {
+               "thumbnailBadgeViewModel": {
+                "text": "24:32",
+                "badgeStyle": "THUMBNAIL_OVERLAY_BADGE_STYLE_DEFAULT",
+                "rendererContext": {
+                 "accessibilityContext": {
+                  "label": "24 minutes, 32 seconds"
+                 }
+                }
+               }
+              }
+             ]
+            }
+           }
+          ]
+         }
+        },
+        "metadata": {
+         "lockupMetadataViewModel": {
+          "title": {
+           "content": "I tested the most Futuristic Tech - it scared me."
+          },
+          "image": {
+           "decoratedAvatarViewModel": {
+            "avatar": {
+             "avatarViewModel": {
+              "image": {
+               "sources": [
+                {
+                 "url": "https://yt3.ggpht.com/QFI5OsUuSRHV-YpwksnVqpqWC19gjU55smnxPzLVU5Y5ohqKIkxq21nV_VfBJhvanYeMBot21A=s68-c-k-c0x00ffffff-no-rj",
+                 "width": 68,
+                 "height": 68
+                }
+               ]
+              },
+              "avatarImageSize": "AVATAR_SIZE_M"
+             }
+            },
+            "a11yLabel": "Go to channel Mrwhosetheboss",
+            "rendererContext": {
+             "commandContext": {
+              "onTap": {
+               "innertubeCommand": {
+                "commandMetadata": {
+                 "webCommandMetadata": {
+                  "url": "/@Mrwhosetheboss",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                 }
+                },
+                "browseEndpoint": {
+                 "browseId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+                 "canonicalBaseUrl": "/@Mrwhosetheboss"
+                }
+               }
+              }
+             }
+            }
+           }
+          },
+          "metadata": {
+           "contentMetadataViewModel": {
+            "metadataRows": [
+             {
+              "metadataParts": [
+               {
+                "text": {
+                 "content": "Mrwhosetheboss"
+                }
+               }
+              ]
+             },
+             {
+              "metadataParts": [
+               {
+                "text": {
+                 "content": "13M"
+                },
+                "accessibilityLabel": "13 million views",
+                "leadingIcon": {
+                 "name": "PLAY_ARROW_OUTLINED",
+                 "height": 12,
+                 "width": 12,
+                 "marginEndToken": {
+                  "spacing": 2
+                 }
+                }
+               },
+               {
+                "text": {
+                 "content": "5d ago"
+                },
+                "accessibilityLabel": "5 days ago"
+               }
+              ]
+             },
+             {
+              "badges": [
+               {
+                "badgeViewModel": {
+                 "badgeText": "New",
+                 "badgeStyle": "BADGE_DEFAULT"
+                }
+               }
+              ]
+             }
+            ],
+            "delimiter": " "
+           }
+          }
+         }
+        },
+        "contentId": "nQdXp6HKKik",
+        "contentType": "LOCKUP_CONTENT_TYPE_VIDEO",
+        "rendererContext": {
+         "accessibilityContext": {
+          "label": "I tested the most Futuristic Tech - it scared me. 24 minutes"
+         },
+         "commandContext": {
+          "onTap": {
+           "innertubeCommand": {
+            "commandMetadata": {
+             "webCommandMetadata": {
+              "url": "/watch?v=nQdXp6HKKik",
+              "webPageType": "WEB_PAGE_TYPE_WATCH",
+              "rootVe": 3832
+             }
+            },
+            "watchEndpoint": {
+             "videoId": "nQdXp6HKKik",
+             "nofollow": true
+            }
+           }
+          }
+         }
+        }
+       }
+      }
+     ]
+    }
+   }
+  }
+ }
+}

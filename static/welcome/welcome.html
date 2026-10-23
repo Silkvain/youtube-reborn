@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Welcome to Reborn</title>
+  <link rel="stylesheet" href="welcome.css">
+</head>
+<body>
+  <main id="ask">
+    <h1>Welcome to Reborn</h1>
+    <p class="lead">Reborn brings back the old YouTube recommendations: “people who watch this
+      also watch that”, built from what real viewers watch, not from what keeps you scrolling.</p>
+
+    <h2>For that, Reborn needs Enhanced discoverability switched on</h2>
+    <p>Recommending the way old YouTube did means knowing what people watch. With your permission,
+      Reborn collects <strong>which YouTube videos you watch</strong> and shares them anonymously with the
+      Reborn server. Everyone’s anonymous totals power everyone’s recommendations, so <strong>the more people join, the
+      better the recommendations get</strong>.</p>
+
+    <div class="columns">
+      <section>
+        <h3>What it shares</h3>
+        <ul>
+          <li>Once a day: which public videos you watched (the day, never the time) and roughly how much of each.</li>
+          <li>Once a week: pairs of channels you watch a lot, like “someone watches both A and B”.</li>
+        </ul>
+      </section>
+      <section>
+        <h3>What it never shares</h3>
+        <ul>
+          <li>Who you are: no account, ID or cookie. Each upload uses a one-time anonymous token, so uploads can’t be linked to each other or to you.</li>
+          <li>Anything you watched before turning this on, your searches, or anything outside YouTube.</li>
+        </ul>
+      </section>
+    </div>
+    <p class="small">Only totals that many people contributed to are published, with random noise added.
+      If you deny, nothing is shared: you still get a private feed built on this device from your
+      subscriptions and the channels they feature, but not the community recommendations Reborn is
+      built around. You can change your mind any time with the Enhanced discoverability switch in the
+      toolbar popup; switching it off stops sharing at once and deletes the downloaded data.</p>
+
+    <div class="actions">
+      <button id="agree" type="button">Agree</button>
+      <button id="deny" type="button">Deny</button>
+    </div>
+    <p id="error" class="small error" hidden>Your browser didn’t grant access to the server, so nothing was
+      switched on. You can try again later from the toolbar popup.</p>
+  </main>
+
+  <main id="done" hidden>
+    <h1 id="doneTitle"></h1>
+    <p id="doneText"></p>
+    <p class="small">Open YouTube to see your new home feed. This window closes in a moment.</p>
+  </main>
+  <script src="welcome.js"></script>
+</body>
+</html>

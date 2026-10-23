@@ -1,0 +1,210 @@
+{
+ "contents": {
+  "twoColumnBrowseResultsRenderer": {
+   "tabs": [
+    {
+     "tabRenderer": {
+      "selected": true,
+      "content": {
+       "sectionListRenderer": {
+        "contents": [
+         {
+          "itemSectionRenderer": {
+           "contents": [
+            {
+             "shelfRenderer": {
+              "content": {
+               "expandedShelfContentsRenderer": {
+                "items": [
+                 {
+                  "channelRenderer": {
+                   "channelId": "UCfixture01xxxxxxxxxxxxx",
+                   "title": {
+                    "simpleText": "Fixture Channel 1"
+                   },
+                   "navigationEndpoint": {
+                    "browseEndpoint": {
+                     "browseId": "UCfixture01xxxxxxxxxxxxx",
+                     "canonicalBaseUrl": "/@fixturechannel1"
+                    }
+                   },
+                   "thumbnail": {
+                    "thumbnails": [
+                     {
+                      "url": "//yt3.example/fixture1=s88",
+                      "width": 88,
+                      "height": 88
+                     },
+                     {
+                      "url": "//yt3.example/fixture1=s176",
+                      "width": 176,
+                      "height": 176
+                     }
+                    ]
+                   },
+                   "descriptionSnippet": {
+                    "runs": [
+                     {
+                      "text": "Fixture description."
+                     }
+                    ]
+                   },
+                   "subscriberCountText": {
+                    "simpleText": "@fixturechannel1"
+                   },
+                   "videoCountText": {
+                    "simpleText": "123K subscribers"
+                   },
+                   "shortBylineText": {
+                    "runs": [
+                     {
+                      "text": "Fixture Channel 1"
+                     }
+                    ]
+                   },
+                   "longBylineText": {
+                    "runs": [
+                     {
+                      "text": "Fixture Channel 1"
+                     }
+                    ]
+                   },
+                   "channelRendererStyle": "CHANNEL_RENDERER_STYLE__NARROW_THUMBNAIL_SPACING"
+                  }
+                 },
+                 {
+                  "channelRenderer": {
+                   "channelId": "UCfixture02xxxxxxxxxxxxx",
+                   "title": {
+                    "simpleText": "Fixture Channel 2"
+                   },
+                   "navigationEndpoint": {
+                    "browseEndpoint": {
+                     "browseId": "UCfixture02xxxxxxxxxxxxx",
+                     "canonicalBaseUrl": "/@fixturechannel2"
+                    }
+                   },
+                   "thumbnail": {
+                    "thumbnails": [
+                     {
+                      "url": "//yt3.example/fixture2=s88",
+                      "width": 88,
+                      "height": 88
+                     },
+                     {
+                      "url": "//yt3.example/fixture2=s176",
+                      "width": 176,
+                      "height": 176
+                     }
+                    ]
+                   },
+                   "descriptionSnippet": {
+                    "runs": [
+                     {
+                      "text": "Fixture description."
+                     }
+                    ]
+                   },
+                   "subscriberCountText": {
+                    "simpleText": "@fixturechannel2"
+                   },
+                   "videoCountText": {
+                    "simpleText": "123K subscribers"
+                   },
+                   "shortBylineText": {
+                    "runs": [
+                     {
+                      "text": "Fixture Channel 2"
+                     }
+                    ]
+                   },
+                   "longBylineText": {
+                    "runs": [
+                     {
+                      "text": "Fixture Channel 2"
+                     }
+                    ]
+                   },
+                   "channelRendererStyle": "CHANNEL_RENDERER_STYLE__NARROW_THUMBNAIL_SPACING"
+                  }
+                 },
+                 {
+                  "channelRenderer": {
+                   "channelId": "UCfixture03xxxxxxxxxxxxx",
+                   "title": {
+                    "simpleText": "Fixture Channel 3"
+                   },
+                   "navigationEndpoint": {
+                    "browseEndpoint": {
+                     "browseId": "UCfixture03xxxxxxxxxxxxx",
+                     "canonicalBaseUrl": "/@fixturechannel3"
+                    }
+                   },
+                   "thumbnail": {
+                    "thumbnails": [
+                     {
+                      "url": "//yt3.example/fixture3=s88",
+                      "width": 88,
+                      "height": 88
+                     },
+                     {
+                      "url": "//yt3.example/fixture3=s176",
+                      "width": 176,
+                      "height": 176
+                     }
+                    ]
+                   },
+                   "descriptionSnippet": {
+                    "runs": [
+                     {
+                      "text": "Fixture description."
+                     }
+                    ]
+                   },
+                   "subscriberCountText": {
+                    "simpleText": "@fixturechannel3"
+                   },
+                   "videoCountText": {
+                    "simpleText": "123K subscribers"
+                   },
+                   "shortBylineText": {
+                    "runs": [
+                     {
+                      "text": "Fixture Channel 3"
+                     }
+                    ]
+                   },
+                   "longBylineText": {
+                    "runs": [
+                     {
+                      "text": "Fixture Channel 3"
+                     }
+                    ]
+                   },
+                   "channelRendererStyle": "CHANNEL_RENDERER_STYLE__NARROW_THUMBNAIL_SPACING"
+                  }
+                 }
+                ]
+               }
+              }
+             }
+            }
+           ]
+          }
+         }
+        ],
+        "targetId": "browse-feedFEchannels"
+       }
+      },
+      "tabIdentifier": "FEchannels"
+     }
+    }
+   ]
+  }
+ },
+ "responseContext": {
+  "mainAppWebResponseContext": {
+   "loggedOut": false
+  }
+ }
+}

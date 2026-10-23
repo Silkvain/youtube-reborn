@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Reborn</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <header>
+    <h1>Reborn</h1>
+    <label class="switch" title="Turn the extension on or off">
+      <input type="checkbox" id="enabled">
+      <span class="slider" aria-hidden="true"></span>
+      <span class="sr-only">Enabled</span>
+    </label>
+  </header>
+  <p id="state" class="state"></p>
+  <label class="option">
+    <span>
+      <strong>Most viewed today</strong>
+      <small>Show some of the biggest videos on YouTube in the last 24 hours at the top of your feed.</small>
+    </span>
+    <span class="switch">
+      <input type="checkbox" id="showTrending">
+      <span class="slider" aria-hidden="true"></span>
+    </span>
+  </label>
+  <section id="community" class="community" hidden>
+    <label class="option">
+      <span>
+        <strong>Enhanced discoverability</strong>
+        <small>Powers the community recommendations Reborn is built around. The more people join, the better they get. Shares anonymous signals; off until you agree.</small>
+      </span>
+      <span class="switch">
+        <input type="checkbox" id="enhanced">
+        <span class="slider" aria-hidden="true"></span>
+      </span>
+    </label>
+    <div id="consent" class="consent" hidden>
+      <p><strong>What this shares</strong></p>
+      <ul>
+        <li>Once a day: which public videos you watched (the day, never the time) and roughly how much of each.</li>
+        <li>Once a week: pairs of channels you watch a lot, like “someone watches both A and B”.</li>
+      </ul>
+      <p><strong>What it never shares</strong></p>
+      <ul>
+        <li>Who you are: no account, ID or cookie. Each upload uses a one-time anonymous token, so uploads can’t be linked to each other or to you.</li>
+        <li>Anything you watched before turning this on, your searches, or anything outside YouTube.</li>
+      </ul>
+      <p>Only totals that many people contributed to are published, with random noise added. Turn it off any time: sharing stops at once and downloaded data is deleted.</p>
+      <div class="consent-actions">
+        <button id="consentYes" type="button" class="primary">Turn on</button>
+        <button id="consentNo" type="button">Cancel</button>
+      </div>
+    </div>
+    <div id="optOut" class="consent warning" hidden role="alertdialog" aria-labelledby="optOutTitle" aria-describedby="optOutText">
+      <p id="optOutTitle"><strong>Turn off Enhanced discoverability?</strong></p>
+      <p id="optOutText">Reborn will stop sharing, and the community data on this device is deleted:
+        “Popular with viewers of …” picks, community picks in the top row, and the shared upload pool.
+        Your own feed keeps working. You can turn it back on later.</p>
+      <div class="consent-actions">
+        <button id="optOutKeep" type="button" class="primary">Keep it on</button>
+        <button id="optOutConfirm" type="button">Turn off</button>
+      </div>
+    </div>
+    <p id="communityStatus" class="note"></p>
+  </section>
+  <dl id="stats" class="stats"></dl>
+  <footer>
+    <button id="clear" type="button" class="danger">Clear all data</button>
+    <p id="privacyNote" class="note">Everything is stored on this device. Nothing is sent anywhere except youtube.com.</p>
+    <p class="note support">Reborn is free and open-source. <a href="https://ko-fi.com/silkvain" target="_blank" rel="noopener">Support development ❤️</a></p>
+  </footer>
+  <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+{
+ "endpoint": {
+  "commandMetadata": {
+   "webCommandMetadata": {
+    "url": "/youtubei/v1/navigation/resolve_url",
+    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+    "rootVe": 3611,
+    "apiUrl": "/youtubei/v1/browse"
+   },
+   "resolveUrlCommandMetadata": {
+    "isVanityUrl": true
+   }
+  },
+  "browseEndpoint": {
+   "browseId": "UCHnyfMqiRRG1u-2MsSQLbXA",
+   "params": "EgC4AQCSAwDyBgQKAjIA"
+  }
+ },
+ "responseContext": {
+  "mainAppWebResponseContext": {
+   "loggedOut": true
+  }
+ }
+}

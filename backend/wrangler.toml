@@ -1,0 +1,69 @@
+# YouTube Reborn "Enhanced discoverability" backend.
+# Deploy steps and the privacy design: ../docs/enhanced-discoverability.md
+
+name = "youtube-reborn-community"
+main = "src/index.ts"
+compatibility_date = "2026-10-01"
+
+# No request logs: they would contain IP addresses and timing. Errors are still visible in
+# `wrangler tail` while you watch, but nothing is retained.
+[observability]
+enabled = false
+
+[[durable_objects.bindings]]
+name = "KEYS"
+class_name = "KeyStore"
+
+[[durable_objects.bindings]]
+name = "SPENT"
+class_name = "SpentTokens"
+
+[[durable_objects.bindings]]
+name = "AGG"
+class_name = "Aggregator"
+
+[[durable_objects.bindings]]
+name = "POOL"
+class_name = "UploadPool"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["KeyStore", "SpentTokens", "Aggregator"]
+
+[[migrations]]
+tag = "v2"
+new_sqlite_classes = ["UploadPool"]
+
+# Published files (trending lists and graph shards). Served through the Worker with cache headers.
+[[r2_buckets]]
+binding = "PUBLIC"
+bucket_name = "youtube-reborn-community-public"
+
+# Burst limit on token requests per connecting address. Counters live at Cloudflare's edge for
+# the period below; this Worker never stores or logs the address.
+[[ratelimits]]
+name = "TOKEN_LIMITER"
+namespace_id = "1001"
+simple = { limit = 3, period = 60 }
+
+# Hourly: republish trending. Daily at 03:23 UTC: republish the channel graph. Every 10 minutes:
+# fetch recent uploads for the shared upload pool (a no-op while the graph is empty).
+# (Patterns must match TRENDING_CRON / GRAPH_CRON / POOL_CRON in src/app.ts.)
+[triggers]
+crons = ["17 * * * *", "23 3 * * *", "*/10 * * * *"]
+
+[vars]
+# Nothing is published until at least this many people contributed (after noise).
+MIN_CONTRIBUTORS = "20"
+# Differential-privacy epsilon for published counts (Laplace scale = 1/epsilon).
+DP_EPSILON = "1"
+# Nothing at all is published until this many uploads arrived over the last 7 days, so a
+# handful of people (or one person with several tokens) can't fill the lists while it's new.
+ACTIVATION_UPLOADS = "160"
+# Kill switch: set to "off" (dashboard → Worker → Settings → Variables, or here + deploy) to stop
+# serving and publishing community data immediately.
+PUBLISHING = "on"
+# Comma-separated video IDs and channel IDs never to publish. Applied when serving, too.
+BLOCKLIST = ""
+# NOISE_SECRET is a secret: `npx wrangler secret put NOISE_SECRET`.
+# YOUTUBE_API_KEY is a secret too (the shared upload pool): `npx wrangler secret put YOUTUBE_API_KEY`.

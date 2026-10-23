@@ -1,0 +1,72 @@
+{
+  "manifest_version": 3,
+  "name": "Reborn for YouTube",
+  "version": "0.2.1",
+  "description": "Old-YouTube-style recommendations on your home page, built from what you watch. Private by default; optional anonymous sharing.",
+  "homepage_url": "https://github.com/Silkvain/youtube-reborn",
+  "icons": {
+    "16": "icons/icon-16.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "permissions": [
+    "storage",
+    "alarms"
+  ],
+  "host_permissions": [
+    "*://www.youtube.com/*"
+  ],
+  "background": {
+    "service_worker": "background/sw.js"
+  },
+  "action": {
+    "default_title": "Reborn for YouTube",
+    "default_popup": "popup/popup.html",
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "48": "icons/icon-48.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.youtube.com/*"
+      ],
+      "js": [
+        "content/boot.js"
+      ],
+      "css": [
+        "content/boot.css"
+      ],
+      "run_at": "document_start"
+    },
+    {
+      "matches": [
+        "*://www.youtube.com/*"
+      ],
+      "js": [
+        "content/bridge-main.js"
+      ],
+      "run_at": "document_start",
+      "world": "MAIN"
+    },
+    {
+      "matches": [
+        "*://www.youtube.com/*"
+      ],
+      "js": [
+        "content/app.js"
+      ],
+      "css": [
+        "content/feed.css"
+      ],
+      "run_at": "document_end"
+    }
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "youtube-reborn@local",
+      "strict_min_version": "128.0"
+    }
+  }
+}
